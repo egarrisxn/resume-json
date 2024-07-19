@@ -1,0 +1,649 @@
+{
+  "resumeData": {
+    "heading": {
+      "title": "",
+      "name": "Ethan Garrison",
+      "position": "Full-Stack Web Developer",
+      "avatar": "https://egarrisxn.github.io/resume-json/images/avatar.png"
+    },
+
+    "summary": {
+      "title": "Summary",
+      "desc": "Seasoned professional with over a decade of experience in sales and management, distinguished by a commitment to superior customer service and leadership excellence. Embracing a career pivot, I've immersed myself in the dynamic field of technologies and web development following the completion of a rigorous full-stack coding bootcamp. Combining my extensive background in management with newfound technical expertise, I bring a unique perspective to strategic problem-solving in web development. Eager to leverage a diverse skill set and contribute effectively to an innovative tech team."
+    },
+
+    "contact": {
+      "title": "Contact",
+      "contactList": [
+        {
+          "id": "info_01",
+          "icon": "Email",
+          "href": "mailto:egarrisxn@gmail.com",
+          "value": "Egarrisxn@gmail.com"
+        },
+        {
+          "id": "info_02",
+          "icon": "Location",
+          "href": "https://www.google.com/maps/place/Orlando,+FL",
+          "value": "Orlando, Fl"
+        },
+        {
+          "id": "info_03",
+          "icon": "Phone",
+          "href": "tel:+15802844513",
+          "value": "580.284.4513"
+        },
+        {
+          "id": "info_04",
+          "icon": "Website",
+          "href": "https://egxworld.net",
+          "value": "Egxworld.net"
+        },
+        {
+          "id": "info_05",
+          "icon": "Blog",
+          "href": "https://egxblog.net",
+          "value": "Egxblog.net"
+        },
+        {
+          "id": "info_06",
+          "icon": "Linkedin",
+          "href": "https://linkedin.com/in/ethan-gx",
+          "value": "Linkedin.com/in/ethan-gx"
+        },
+        {
+          "id": "info_07",
+          "icon": "Github",
+          "href": "https://github.com/egarrisxn",
+          "value": "Github.com/egarrisxn"
+        }
+      ]
+    },
+
+    "experience": {
+      "title": "Experience",
+      "experienceList": [
+        {
+          "id": "freelance_01",
+          "name": "Freelance",
+          "location": "Orlando, FL",
+          "detailList": [
+            {
+              "id": "freelance_01_01",
+              "position": "Full-Stack Web Developer",
+              "duration": "2023 - Present",
+              "dutyList": [
+                {
+                  "id": "freelance_01_01_01",
+                  "desc": "Lead the design and development of responsive, intuitive web interfaces, focusing on seamless user experience and integrating robust back-end functionality."
+                },
+                {
+                  "id": "freelance_01_01_02",
+                  "desc": "Manage end-to-end project lifecycles, from initial concept through to final delivery, ensuring high client satisfaction and timely project completion."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pinksquirrel_01",
+          "name": "The Pink Squirrel",
+          "location": "Chicago, IL",
+          "detailList": [
+            {
+              "id": "pinksquirrel_01_01",
+              "position": "Assistant General Manager",
+              "duration": "2022 - 2023",
+              "dutyList": [
+                {
+                  "id": "pinksquirrel_01_01_01",
+                  "desc": "Developed and executed targeted marketing and advertising strategies, increasing restaurant visibility and driving significant sales growth."
+                },
+                {
+                  "id": "pinksquirrel_01_01_02",
+                  "desc": "Led daily team meetings, providing constructive feedback and conducting tailored training sessions to enhance staff performance and operational efficiency."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "roughtail_01",
+          "name": "Roughtail Brewing Company",
+          "location": "Oklahoma City, OK",
+          "detailList": [
+            {
+              "id": "roughtail_01_01",
+              "position": "Regional Account Manager",
+              "duration": "2021 - 2022",
+              "dutyList": [
+                {
+                  "id": "roughtail_01_01_01",
+                  "desc": "Built and maintained strong client relationships by offering tailored pricing strategies and personalized customer service."
+                },
+                {
+                  "id": "roughtail_01_01_02",
+                  "desc": "Identified strategic market entry points, optimizing market penetration and maximizing return on investment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "armadillo_01",
+          "name": "Armadillo Ale Works",
+          "location": "Denton, TX",
+          "detailList": [
+            {
+              "id": "armadillo_01_01",
+              "position": "Account Manager",
+              "duration": "2020 - 2021",
+              "dutyList": [
+                {
+                  "id": "armadillo_01_01_01",
+                  "desc": "Drove new business development initiatives, proactively identifying sales opportunities, negotiating contracts, and forecasting revenue growth."
+                },
+                {
+                  "id": "armadillo_01_01_02",
+                  "desc": "Implemented strategic initiatives to streamline processes, mitigate discrepancies, and optimize sales performance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "northside_01",
+          "name": "Northside Drafthouse & Eatery",
+          "location": "Richardson, TX",
+          "detailList": [
+            {
+              "id": "northside_01_01",
+              "position": "Assistant General Manager",
+              "duration": "2018 - 2020",
+              "dutyList": [
+                {
+                  "id": "northside_01_01_01",
+                  "desc": "Forged strategic partnerships within the community, leveraging relationships to drive new revenue streams and enhance brand visibility."
+                },
+                {
+                  "id": "northside_01_01_02",
+                  "desc": "Provided leadership and mentorship to foster a culture of exceptional service delivery and uphold high standards of operational excellence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fullclip_01",
+          "name": "Fullclip Craft Distributors",
+          "location": "Dallas, TX",
+          "detailList": [
+            {
+              "id": "fullclip_01_01",
+              "position": "Sales Manager",
+              "duration": "2015 - 2018",
+              "dutyList": [
+                {
+                  "id": "fullclip_01_01_01",
+                  "desc": "Championed client satisfaction initiatives, fostering strong, long-term relationships and consistently exceeding customer expectations."
+                },
+                {
+                  "id": "fullclip_01_01_02",
+                  "desc": "Educated clients on innovative products and services, driving engagement and enhancing brand loyalty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dbk_01",
+          "name": "Dallas Beer Kitchen",
+          "location": "Dallas, TX",
+          "detailList": [
+            {
+              "id": "dbk_01_01",
+              "position": "General Manager",
+              "duration": "2012 - 2015",
+              "dutyList": [
+                {
+                  "id": "dbk_01_01_01",
+                  "desc": "Directed comprehensive budgetary planning, performance reviews, training programs, and contract negotiations."
+                },
+                {
+                  "id": "dbk_01_01_02",
+                  "desc": "Cultivated a culture of operational excellence, coaching teams on leadership principles, industry best practices, and company protocols."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    "projects": {
+      "title": "Projects",
+      "projectList": [
+        {
+          "id": "project_01",
+          "name": "Sway Bae Official",
+          "href": "https://www.swaybae.net",
+          "value": "swaybae.net",
+          "desc": "Designed and developed the official website for professional streamer & content creator, Sway Bae, showcasing dynamic content and engaging user experience."
+        },
+        {
+          "id": "project_02",
+          "name": "EGXRSC",
+          "href": "https://egxrsc.vercel.app",
+          "value": "egxrsc.vercel.app",
+          "desc": "Built a minimalist website using React Server Components, optimizing page load times and enhancing interactivity through server-side rendering."
+        },
+        {
+          "id": "project_03",
+          "name": "n00b:dev",
+          "href": "https://n00bdev.vercel.app",
+          "value": "n00bdev.vercel.app",
+          "desc": "Developed a server-side rendered blog using Astro Framework, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
+        },
+        {
+          "id": "project_04",
+          "name": "WebSanity Builder",
+          "href": "https://websanitybuilder.vercel.app",
+          "value": "websanitybuilder.vercel.app",
+          "desc": "Created a CMS-driven website builder with Sanity, enabling users to effortlessly build and customize websites with a modern and intuitive interface."
+        },
+        {
+          "id": "project_05",
+          "name": "Unofficial Merchandise",
+          "href": "https://unofficialmerchandise.vercel.app",
+          "value": "unofficialmerchandise.vercel.app",
+          "desc": "Developed a fully functional ecommerce webstore integrated with Stripe payment gateway, ensuring a secure and seamless shopping experience for customers."
+        },
+        {
+          "id": "project_06",
+          "name": "DevBuild Resume!",
+          "href": "https://devbuild-resume.vercel.app",
+          "value": "devbuild-resume.vercel.app",
+          "desc": "Designed a typesafe resume template tailored for developers, providing an easy-to-use platform to create and customize professional resumes."
+        },
+        {
+          "id": "project_07",
+          "name": "EG Angular Movies",
+          "href": "https://eg-angular-movies.netlify.app",
+          "value": "eg-angular-movies.netlify.app",
+          "desc": "Developed a clean and intuitive movie database application using Angular, providing users with a seamless and engaging experience for discovering and exploring movies."
+        },
+        {
+          "id": "project_08",
+          "name": "Vite | Theme Party",
+          "href": "https://vite-theme-party.netlify.app",
+          "value": "vite-theme-party.netlify.app",
+          "desc": "Created a dynamic playground for experimenting with multiple themes, utilizing Vite for rapid development and enabling users to interact with and customize their application’s appearance."
+        },
+        {
+          "id": "project_09",
+          "name": "EG x WORLD",
+          "href": "https://www.egxworld.net",
+          "value": "egxworld.net",
+          "desc": "Developed my personal website, EG x WORLD, to showcase my skills as a Full-Stack Web Developer and share insights into my professional journey."
+        },
+        {
+          "id": "project_10",
+          "name": "EG x BLOG",
+          "href": "https://www.egxblog.net",
+          "value": "egxblog.net",
+          "desc": "Established my personal blog, EG x BLOG, as a platform to document my learning experiences and insights on web development and design."
+        }
+      ]
+    },
+
+    "skills": {
+      "title": "Skills",
+      "skillList": [
+        {
+          "id": "skill_01",
+          "name": "Project Management",
+          "desc": ""
+        },
+        {
+          "id": "skill_02",
+          "name": "Team collaboration",
+          "desc": ""
+        },
+        {
+          "id": "skill_03",
+          "name": "Communication Skills",
+          "desc": ""
+        },
+        {
+          "id": "skill_04",
+          "name": "Application Development",
+          "desc": ""
+        },
+        {
+          "id": "skill_05",
+          "name": "UX/UI Responsive Design",
+          "desc": ""
+        },
+        {
+          "id": "skill_06",
+          "name": "Front-End Frameworks",
+          "desc": ""
+        },
+        {
+          "id": "skill_07",
+          "name": "Agile/Scrum Methodologies",
+          "desc": ""
+        },
+        {
+          "id": "skill_08",
+          "name": "Performance Optimization",
+          "desc": ""
+        },
+        {
+          "id": "skill_09",
+          "name": "RESTful API Design & Implementation",
+          "desc": ""
+        },
+        {
+          "id": "skill_10",
+          "name": "Server Management & Deployment",
+          "desc": ""
+        },
+        {
+          "id": "skill_11",
+          "name": "Database Design & Management",
+          "desc": ""
+        },
+        {
+          "id": "skill_12",
+          "name": "Object-Oriented Programming (OOP)",
+          "desc": ""
+        },
+        {
+          "id": "skill_13",
+          "name": "Continuous Intergration & Deployment (CI/CD)",
+          "desc": ""
+        },
+        {
+          "id": "skill_14",
+          "name": "Authentication & Authorization",
+          "desc": ""
+        }
+      ]
+    },
+
+    "technologies": {
+      "title": "Technologies",
+      "technologiesList": [
+        {
+          "id": "technologies_01",
+          "name": "JavaScript",
+          "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "desc": ""
+        },
+        {
+          "id": "technologies_02",
+          "name": "Typescript",
+          "href": "https://www.typescriptlang.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_03",
+          "name": "HTML5",
+          "href": "https://www.html.com/html5/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_04",
+          "name": "CSS3",
+          "href": "https://www.css3.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_05",
+          "name": "C",
+          "href": "https://www.cprogramming.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_06",
+          "name": "Git",
+          "href": "https://www.git-scm.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_07",
+          "name": "PNPM",
+          "href": "https://pnpm.io/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_08",
+          "name": "Webpack",
+          "href": "https://webpack.js.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_09",
+          "name": "Vite",
+          "href": "https://vitejs.dev/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_10",
+          "name": "Node.js",
+          "href": "https://www.nodejs.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_11",
+          "name": "Deno",
+          "href": "https://www.deno.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_12",
+          "name": "React",
+          "href": "https://www.reactjs.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_13",
+          "name": "Vue.js",
+          "href": "https://www.vuejs.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_14",
+          "name": "Angular",
+          "href": "https://www.angular.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_15",
+          "name": "Svelte",
+          "href": "https://svelte.dev/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_16",
+          "name": "Next.js",
+          "href": "https://www.nextjs.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_17",
+          "name": "Astro",
+          "href": "https://www.astro.build/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_18",
+          "name": "jQuery",
+          "href": "https://www.jquery.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_19",
+          "name": "Alpine.js",
+          "href": "https://alpinejs.dev/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_20",
+          "name": "Pug",
+          "href": "https://pugjs.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_21",
+          "name": "ESLint",
+          "href": "https://eslint.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_22",
+          "name": "Markdown",
+          "href": "https://www.markdownguide.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_23",
+          "name": "Express",
+          "href": "https://www.expressjs.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_24",
+          "name": "MongoDB",
+          "href": "https://www.mongodb.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_25",
+          "name": "GraphQL",
+          "href": "https://www.graphql.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_26",
+          "name": "MySQL",
+          "href": "https://www.mysql.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_27",
+          "name": "Sanity",
+          "href": "https://www.sanity.io/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_28",
+          "name": "TailwindCSS",
+          "href": "https://www.tailwindcss.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_29",
+          "name": "Bootstrap",
+          "href": "https://www.getbootstrap.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_30",
+          "name": "Vercel",
+          "href": "https://www.vercel.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_31",
+          "name": "Netlify",
+          "href": "https://www.netlify.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_32",
+          "name": "Heroku",
+          "href": "https://www.heroku.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_33",
+          "name": "VS Code",
+          "href": "https://code.visualstudio.com/",
+          "desc": ""
+        }
+      ]
+    },
+
+    "education": {
+      "title": "Education",
+      "educationList": [
+        {
+          "id": "education_01",
+          "name": "University of Central Florida",
+          "location": "Florida",
+          "href": "https://www.ucf.edu/",
+          "degree": "Full-Stack Coding Bootcamp Certificate",
+          "duration": "2023",
+          "desc": ""
+        },
+        {
+          "id": "education_02",
+          "name": "University of Central Oklahoma",
+          "location": "Oklahoma",
+          "href": "https://www.uco.edu/",
+          "degree": "NA - Business Management",
+          "duration": "2008",
+          "desc": ""
+        }
+      ]
+    },
+
+    "hobbies": {
+      "title": "Hobbies",
+      "hobbyList": [
+        {
+          "id": "hobby_01",
+          "name": "Traveling the world",
+          "desc": ""
+        },
+        {
+          "id": "hobby_02",
+          "name": "Building things",
+          "desc": ""
+        },
+        {
+          "id": "hobby_03",
+          "name": "Watching hockey",
+          "desc": ""
+        },
+        {
+          "id": "hobby_04",
+          "name": "Volunteering",
+          "desc": ""
+        },
+        {
+          "id": "hobby_05",
+          "name": "Being outdoors",
+          "desc": ""
+        },
+        {
+          "id": "hobby_06",
+          "name": "Live music events",
+          "desc": ""
+        },
+        {
+          "id": "hobby_07",
+          "name": "Learning new things",
+          "desc": ""
+        },
+        {
+          "id": "hobby_08",
+          "name": "Quality family time",
+          "desc": ""
+        }
+      ]
+    }
+  }
+}
