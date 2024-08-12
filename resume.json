@@ -348,6 +348,20 @@
           "id": "skill_14",
           "name": "Security Best Practices",
           "desc": ""
+        },
+        {
+          "id": "project_09",
+          "name": "The Tech Forum",
+          "href": "https://mvc-tech-forum-de64e42b6cc2.herokuapp.com",
+          "value": "mvc-tech-forum-de64e42b6cc2.herokuapp.com",
+          "desc": "Formatted this CMS inspired forum application, demonstrating and highlighting the CRUD principles, and built with Express, MySQL, & more."
+        },
+        {
+          "id": "project_10",
+          "name": "Vanilla Template'",
+          "href": "https://egarrisxn.github.io/portfolio-template/",
+          "value": "egarrisxn.github.io/portfolio-template",
+          "desc": "Fine-tuned this modern and beautiful portfolio template using only the powers from the trinity: HTML5, CSS3, & JavaScript."
         }
       ]
     },
