@@ -40,12 +40,6 @@
           "value": "Egxworld.net"
         },
         {
-          "id": "info_05",
-          "icon": "Blog",
-          "href": "https://egxblog.net",
-          "value": "Egxblog.net"
-        },
-        {
           "id": "info_06",
           "icon": "Linkedin",
           "href": "https://linkedin.com/in/ethan-gx",
@@ -232,66 +226,52 @@
         },
         {
           "id": "project_02",
-          "name": "EGXRSC",
-          "href": "https://egxrsc.vercel.app",
-          "value": "egxrsc.vercel.app",
-          "desc": "Built a minimalist website using React Server Components, optimizing page load times and enhancing interactivity through server-side rendering."
+          "name": "Unofficial Merchandise",
+          "href": "https://unofficialmerchandise.vercel.app",
+          "value": "unofficialmerchandise.vercel.app",
+          "desc": "Developed a fully functional e-commerce webstore integrated with the Stripe payment gateway, ensuring a secure and seamless shopping experience for customers."
         },
         {
           "id": "project_03",
-          "name": "n00b:dev",
-          "href": "https://n00bdev.vercel.app",
-          "value": "n00bdev.vercel.app",
-          "desc": "Developed a server-side rendered blog using Astro Framework, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
-        },
-        {
-          "id": "project_04",
           "name": "WebSanity Builder",
           "href": "https://websanitybuilder.vercel.app",
           "value": "websanitybuilder.vercel.app",
           "desc": "Created a CMS-driven website builder with Sanity, enabling users to effortlessly build and customize websites with a modern and intuitive interface."
         },
         {
+          "id": "project_04",
+          "name": "n00b:dev",
+          "href": "https://n00bdev.vercel.app",
+          "value": "n00bdev.vercel.app",
+          "desc": "Developed a server-side rendered blog using the Astro Framework & TypeScript, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
+        },
+        {
           "id": "project_05",
-          "name": "Unofficial Merchandise",
-          "href": "https://unofficialmerchandise.vercel.app",
-          "value": "unofficialmerchandise.vercel.app",
-          "desc": "Developed a fully functional ecommerce webstore integrated with Stripe payment gateway, ensuring a secure and seamless shopping experience for customers."
+          "name": "EGxWORLD v1",
+          "href": "https://egxworld.vercel.app",
+          "value": "egxworld.vercel.app",
+          "desc": "Built my first portfolio as a developer with Next.js. Showcasing my attention to detail, this site displays projects, a little about me, a contact page, client testimonials, & more."
         },
         {
           "id": "project_06",
-          "name": "DevBuild Resume!",
-          "href": "https://devbuild-resume.vercel.app",
-          "value": "devbuild-resume.vercel.app",
-          "desc": "Designed a typesafe resume template tailored for developers, providing an easy-to-use platform to create and customize professional resumes."
+          "name": "EGxBLOG v1",
+          "href": "https://www.egxblog.net",
+          "value": "egxblog.net",
+          "desc": "Established my personal blog, EGxBLOG, as a platform to document my learning experiences and insights on web development and design."
         },
         {
           "id": "project_07",
-          "name": "EG Angular Movies",
+          "name": "EG Movies",
           "href": "https://eg-angular-movies.netlify.app",
           "value": "eg-angular-movies.netlify.app",
-          "desc": "Developed a clean and intuitive movie database application using Angular, providing users with a seamless and engaging experience for discovering and exploring movies."
+          "desc": "Developed a clean and intuitive movie database using Angular & TypeScript, providing users with a seamless and engaging experience for discovering and exploring movies."
         },
         {
           "id": "project_08",
-          "name": "Vite | Theme Party",
-          "href": "https://vite-theme-party.netlify.app",
-          "value": "vite-theme-party.netlify.app",
-          "desc": "Created a dynamic playground for experimenting with multiple themes, utilizing Vite for rapid development and enabling users to interact with and customize their application’s appearance."
-        },
-        {
-          "id": "project_09",
-          "name": "EG x WORLD",
-          "href": "https://www.egxworld.net",
-          "value": "egxworld.net",
-          "desc": "Developed my personal website, EG x WORLD, to showcase my skills as a Full-Stack Web Developer and share insights into my professional journey."
-        },
-        {
-          "id": "project_10",
-          "name": "EG x BLOG",
-          "href": "https://www.egxblog.net",
-          "value": "egxblog.net",
-          "desc": "Established my personal blog, EG x BLOG, as a platform to document my learning experiences and insights on web development and design."
+          "name": "DevBuild Resume!",
+          "href": "https://devbuild-resume.vercel.app",
+          "value": "devbuild-resume.vercel.app",
+          "desc": "Designed a type-safe resume template tailored for developers, providing an easy-to-use platform to create and customize professional resumes."
         }
       ]
     },
@@ -306,67 +286,67 @@
         },
         {
           "id": "skill_02",
-          "name": "Team collaboration",
+          "name": "Front-End Framework Development",
           "desc": ""
         },
         {
           "id": "skill_03",
-          "name": "Communication Skills",
+          "name": "UX/UI Accessible & Responsive Design",
           "desc": ""
         },
         {
           "id": "skill_04",
-          "name": "Application Development",
+          "name": "Web Performance Optimization",
           "desc": ""
         },
         {
           "id": "skill_05",
-          "name": "UX/UI Responsive Design",
+          "name": "Search Engine Optimization (SEO)",
           "desc": ""
         },
         {
           "id": "skill_06",
-          "name": "Front-End Frameworks",
+          "name": "API Design, Implementation & Integration",
           "desc": ""
         },
         {
           "id": "skill_07",
-          "name": "Agile/Scrum Methodologies",
+          "name": "Server Management, Hosting & Deployment",
           "desc": ""
         },
         {
           "id": "skill_08",
-          "name": "Performance Optimization",
+          "name": "Agile/Scrum Methodologies",
           "desc": ""
         },
         {
           "id": "skill_09",
-          "name": "RESTful API Design & Implementation",
-          "desc": ""
-        },
-        {
-          "id": "skill_10",
-          "name": "Server Management & Deployment",
-          "desc": ""
-        },
-        {
-          "id": "skill_11",
           "name": "Database Design & Management",
           "desc": ""
         },
         {
-          "id": "skill_12",
+          "id": "skill_10",
           "name": "Object-Oriented Programming (OOP)",
           "desc": ""
         },
         {
+          "id": "skill_11",
+          "name": "Continuous Integration & Deployment (CI/CD)",
+          "desc": ""
+        },
+        {
+          "id": "skill_12",
+          "name": "Authentication & Authorization",
+          "desc": ""
+        },
+        {
           "id": "skill_13",
-          "name": "Continuous Intergration & Deployment (CI/CD)",
+          "name": "Version Control (Git/GitHub)",
           "desc": ""
         },
         {
           "id": "skill_14",
-          "name": "Authentication & Authorization",
+          "name": "Security Best Practices",
           "desc": ""
         }
       ]
@@ -389,188 +369,146 @@
         },
         {
           "id": "technologies_03",
-          "name": "HTML5",
-          "href": "https://www.html.com/html5/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_04",
-          "name": "CSS3",
-          "href": "https://www.css3.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_05",
-          "name": "C",
-          "href": "https://www.cprogramming.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_06",
-          "name": "Git",
-          "href": "https://www.git-scm.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_07",
-          "name": "PNPM",
-          "href": "https://pnpm.io/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_08",
-          "name": "Webpack",
-          "href": "https://webpack.js.org/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_09",
-          "name": "Vite",
-          "href": "https://vitejs.dev/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_10",
-          "name": "Node.js",
-          "href": "https://www.nodejs.org/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_11",
-          "name": "Deno",
-          "href": "https://www.deno.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_12",
           "name": "React",
           "href": "https://www.reactjs.org/",
           "desc": ""
         },
         {
-          "id": "technologies_13",
-          "name": "Vue.js",
-          "href": "https://www.vuejs.org/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_14",
+          "id": "technologies_04",
           "name": "Angular",
           "href": "https://www.angular.org/",
           "desc": ""
         },
         {
-          "id": "technologies_15",
-          "name": "Svelte",
-          "href": "https://svelte.dev/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_16",
+          "id": "technologies_05",
           "name": "Next.js",
           "href": "https://www.nextjs.org/",
           "desc": ""
         },
         {
-          "id": "technologies_17",
+          "id": "technologies_06",
           "name": "Astro",
           "href": "https://www.astro.build/",
           "desc": ""
         },
         {
-          "id": "technologies_18",
+          "id": "technologies_07",
           "name": "jQuery",
           "href": "https://www.jquery.com/",
           "desc": ""
         },
         {
-          "id": "technologies_19",
+          "id": "technologies_08",
           "name": "Alpine.js",
           "href": "https://alpinejs.dev/",
           "desc": ""
         },
         {
-          "id": "technologies_20",
-          "name": "Pug",
-          "href": "https://pugjs.org/",
+          "id": "technologies_09",
+          "name": "Git",
+          "href": "https://www.git-scm.com/",
           "desc": ""
         },
         {
-          "id": "technologies_21",
+          "id": "technologies_10",
+          "name": "PNPM",
+          "href": "https://pnpm.io/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_11",
+          "name": "NPM",
+          "href": "https://www.npmjs.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_12",
+          "name": "Webpack",
+          "href": "https://webpack.js.org/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_13",
+          "name": "Vite",
+          "href": "https://vitejs.dev/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_14",
           "name": "ESLint",
           "href": "https://eslint.org/",
           "desc": ""
         },
         {
-          "id": "technologies_22",
-          "name": "Markdown",
-          "href": "https://www.markdownguide.org/",
+          "id": "technologies_15",
+          "name": "Node.js",
+          "href": "https://www.nodejs.org/",
           "desc": ""
         },
         {
-          "id": "technologies_23",
+          "id": "technologies_16",
+          "name": "Deno",
+          "href": "https://www.deno.com/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_17",
           "name": "Express",
           "href": "https://www.expressjs.com/",
           "desc": ""
         },
         {
-          "id": "technologies_24",
+          "id": "technologies_18",
           "name": "MongoDB",
           "href": "https://www.mongodb.com/",
           "desc": ""
         },
         {
-          "id": "technologies_25",
+          "id": "technologies_19",
           "name": "GraphQL",
           "href": "https://www.graphql.org/",
           "desc": ""
         },
         {
-          "id": "technologies_26",
+          "id": "technologies_20",
           "name": "MySQL",
           "href": "https://www.mysql.com/",
           "desc": ""
         },
         {
-          "id": "technologies_27",
+          "id": "technologies_21",
           "name": "Sanity",
           "href": "https://www.sanity.io/",
           "desc": ""
         },
         {
-          "id": "technologies_28",
+          "id": "technologies_22",
           "name": "TailwindCSS",
           "href": "https://www.tailwindcss.com/",
           "desc": ""
         },
         {
-          "id": "technologies_29",
+          "id": "technologies_23",
           "name": "Bootstrap",
           "href": "https://www.getbootstrap.com/",
           "desc": ""
         },
         {
-          "id": "technologies_30",
+          "id": "technologies_24",
           "name": "Vercel",
           "href": "https://www.vercel.com/",
           "desc": ""
         },
         {
-          "id": "technologies_31",
+          "id": "technologies_25",
           "name": "Netlify",
           "href": "https://www.netlify.com/",
           "desc": ""
         },
         {
-          "id": "technologies_32",
+          "id": "technologies_26",
           "name": "Heroku",
           "href": "https://www.heroku.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_33",
-          "name": "VS Code",
-          "href": "https://code.visualstudio.com/",
           "desc": ""
         }
       ]
@@ -605,42 +543,22 @@
       "hobbyList": [
         {
           "id": "hobby_01",
-          "name": "Traveling the world",
+          "name": "Contributing to open-source projects",
           "desc": ""
         },
         {
           "id": "hobby_02",
-          "name": "Building things",
+          "name": "Participating in coding challenges",
           "desc": ""
         },
         {
           "id": "hobby_03",
-          "name": "Watching hockey",
+          "name": "Tech blogging and discussion groups",
           "desc": ""
         },
         {
           "id": "hobby_04",
-          "name": "Volunteering",
-          "desc": ""
-        },
-        {
-          "id": "hobby_05",
-          "name": "Being outdoors",
-          "desc": ""
-        },
-        {
-          "id": "hobby_06",
-          "name": "Live music events",
-          "desc": ""
-        },
-        {
-          "id": "hobby_07",
-          "name": "Learning new things",
-          "desc": ""
-        },
-        {
-          "id": "hobby_08",
-          "name": "Quality family time",
+          "name": "Exploring the latest technologies",
           "desc": ""
         }
       ]
