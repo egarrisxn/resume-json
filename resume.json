@@ -6,12 +6,10 @@
       "position": "Full-Stack Web Developer",
       "avatar": "https://egarrisxn.github.io/resume-json/images/avatar.png"
     },
-
     "summary": {
       "title": "Summary",
       "desc": "Seasoned professional with over a decade of experience in sales and management, distinguished by a commitment to superior customer service and leadership excellence. Embracing a career pivot, I've immersed myself in the dynamic field of technologies and web development following the completion of a rigorous full-stack coding bootcamp. Combining my extensive background in management with newfound technical expertise, I bring a unique perspective to strategic problem-solving in web development. Eager to leverage a diverse skill set and contribute effectively to an innovative tech team."
     },
-
     "contact": {
       "title": "Contact",
       "contactList": [
@@ -53,7 +51,6 @@
         }
       ]
     },
-
     "experience": {
       "title": "Experience",
       "experienceList": [
@@ -74,28 +71,6 @@
                 {
                   "id": "freelance_01_01_02",
                   "desc": "Manage end-to-end project lifecycles, from initial concept through to final delivery, ensuring high client satisfaction and timely project completion."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "pinksquirrel_01",
-          "name": "The Pink Squirrel",
-          "location": "Chicago, IL",
-          "detailList": [
-            {
-              "id": "pinksquirrel_01_01",
-              "position": "Assistant General Manager",
-              "duration": "2022 - 2023",
-              "dutyList": [
-                {
-                  "id": "pinksquirrel_01_01_01",
-                  "desc": "Developed and executed targeted marketing and advertising strategies, increasing restaurant visibility and driving significant sales growth."
-                },
-                {
-                  "id": "pinksquirrel_01_01_02",
-                  "desc": "Led daily team meetings, providing constructive feedback and conducting tailored training sessions to enhance staff performance and operational efficiency."
                 }
               ]
             }
@@ -131,7 +106,7 @@
             {
               "id": "armadillo_01_01",
               "position": "Account Manager",
-              "duration": "2020 - 2021",
+              "duration": "2019 - 2021",
               "dutyList": [
                 {
                   "id": "armadillo_01_01_01",
@@ -153,7 +128,7 @@
             {
               "id": "northside_01_01",
               "position": "Assistant General Manager",
-              "duration": "2018 - 2020",
+              "duration": "2018 - 2019",
               "dutyList": [
                 {
                   "id": "northside_01_01_01",
@@ -197,7 +172,7 @@
             {
               "id": "dbk_01_01",
               "position": "General Manager",
-              "duration": "2012 - 2015",
+              "duration": "2011 - 2015",
               "dutyList": [
                 {
                   "id": "dbk_01_01_01",
@@ -213,7 +188,6 @@
         }
       ]
     },
-
     "projects": {
       "title": "Projects",
       "projectList": [
@@ -268,14 +242,27 @@
         },
         {
           "id": "project_08",
-          "name": "DevBuild Resume!",
-          "href": "https://devbuild-resume.vercel.app",
-          "value": "devbuild-resume.vercel.app",
-          "desc": "Designed a type-safe resume template tailored for developers, providing an easy-to-use platform to create and customize professional resumes."
+          "name": "ATS Resbuilder",
+          "href": "https://resume-builder-omega-beige.vercel.app",
+          "value": "resume-builder-omega-beige.vercel.app",
+          "desc": "Designed an ATS-certified resume template tailored for developers, along with showcasing a variety of methods to create your own resume!."
+        },
+        {
+          "id": "project_09",
+          "name": "The Tech Forum",
+          "href": "https://mvc-tech-forum-de64e42b6cc2.herokuapp.com",
+          "value": "mvc-tech-forum-de64e42b6cc2.herokuapp.com",
+          "desc": "Formatted this CMS inspired forum application, demonstrating and highlighting the CRUD principles, and built with Express, MySQL, & more."
+        },
+        {
+          "id": "project_10",
+          "name": "Vanilla Template'",
+          "href": "https://egarrisxn.github.io/portfolio-template/",
+          "value": "egarrisxn.github.io/portfolio-template",
+          "desc": "Fine-tuned this modern and beautiful portfolio template using only the powers from the trinity: HTML5, CSS3, & JavaScript."
         }
       ]
     },
-
     "skills": {
       "title": "Skills",
       "skillList": [
@@ -348,24 +335,9 @@
           "id": "skill_14",
           "name": "Security Best Practices",
           "desc": ""
-        },
-        {
-          "id": "project_09",
-          "name": "The Tech Forum",
-          "href": "https://mvc-tech-forum-de64e42b6cc2.herokuapp.com",
-          "value": "mvc-tech-forum-de64e42b6cc2.herokuapp.com",
-          "desc": "Formatted this CMS inspired forum application, demonstrating and highlighting the CRUD principles, and built with Express, MySQL, & more."
-        },
-        {
-          "id": "project_10",
-          "name": "Vanilla Template'",
-          "href": "https://egarrisxn.github.io/portfolio-template/",
-          "value": "egarrisxn.github.io/portfolio-template",
-          "desc": "Fine-tuned this modern and beautiful portfolio template using only the powers from the trinity: HTML5, CSS3, & JavaScript."
         }
       ]
     },
-
     "technologies": {
       "title": "Technologies",
       "technologiesList": [
@@ -527,7 +499,6 @@
         }
       ]
     },
-
     "education": {
       "title": "Education",
       "educationList": [
@@ -551,7 +522,6 @@
         }
       ]
     },
-
     "hobbies": {
       "title": "Hobbies",
       "hobbyList": [
