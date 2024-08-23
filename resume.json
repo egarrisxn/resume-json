@@ -3,12 +3,12 @@
     "heading": {
       "title": "",
       "name": "Ethan Garrison",
-      "position": "Full-Stack Web Developer",
+      "position": "Full-Stack Developer",
       "avatar": "https://egarrisxn.github.io/resume-json/images/avatar.png"
     },
     "summary": {
       "title": "Summary",
-      "desc": "Seasoned professional with over a decade of experience in sales and management, distinguished by a commitment to superior customer service and leadership excellence. Embracing a career pivot, I've immersed myself in the dynamic field of technologies and web development following the completion of a rigorous full-stack coding bootcamp. Combining my extensive background in management with newfound technical expertise, I bring a unique perspective to strategic problem-solving in web development. Eager to leverage a diverse skill set and contribute effectively to an innovative tech team."
+      "desc": "Dynamic Full-Stack Developer with a strong foundation in management, now focused on front-end development and server-side programming. Skilled in creating responsive and accessible user interfaces, managing databases, and integrating APIs. Proficient in Agile methodologies and optimization, delivering scalable web solutions that meet user needs and business goals."
     },
     "contact": {
       "title": "Contact",
@@ -66,11 +66,11 @@
               "dutyList": [
                 {
                   "id": "freelance_01_01_01",
-                  "desc": "Lead the design and development of responsive, intuitive web interfaces, focusing on seamless user experience and integrating robust back-end functionality."
+                  "desc": "Develop and deploy applications using modern frameworks like React, Next.js, and Node.js, delivering robust and scalable solutions for client needs."
                 },
                 {
                   "id": "freelance_01_01_02",
-                  "desc": "Manage end-to-end project lifecycles, from initial concept through to final delivery, ensuring high client satisfaction and timely project completion."
+                  "desc": "Implement responsive and accessible design principles to ensure an exceptional user experience and adherence to accessibility standards."
                 }
               ]
             }
@@ -88,11 +88,11 @@
               "dutyList": [
                 {
                   "id": "roughtail_01_01_01",
-                  "desc": "Built and maintained strong client relationships by offering tailored pricing strategies and personalized customer service."
+                  "desc": "Boosted regional sales by 20% through targeted marketing campaigns and strategic partnerships with distributors."
                 },
                 {
                   "id": "roughtail_01_01_02",
-                  "desc": "Identified strategic market entry points, optimizing market penetration and maximizing return on investment."
+                  "desc": "Streamlined coordination between sales and production teams, enhancing efficiency and alignment across departments."
                 }
               ]
             }
@@ -110,11 +110,11 @@
               "dutyList": [
                 {
                   "id": "armadillo_01_01_01",
-                  "desc": "Drove new business development initiatives, proactively identifying sales opportunities, negotiating contracts, and forecasting revenue growth."
+                  "desc": "Drove a 25% increase in sales by expanding market reach and establishing strong distributor relationships."
                 },
                 {
                   "id": "armadillo_01_01_02",
-                  "desc": "Implemented strategic initiatives to streamline processes, mitigate discrepancies, and optimize sales performance."
+                  "desc": "Championed collaborative strategies between sales, marketing, and production teams, aligning efforts to meet company growth objectives."
                 }
               ]
             }
@@ -132,11 +132,11 @@
               "dutyList": [
                 {
                   "id": "northside_01_01_01",
-                  "desc": "Forged strategic partnerships within the community, leveraging relationships to drive new revenue streams and enhance brand visibility."
+                  "desc": "Achieved significant reduction in costs through operational improvements, while upholding high service standards."
                 },
                 {
                   "id": "northside_01_01_02",
-                  "desc": "Provided leadership and mentorship to foster a culture of exceptional service delivery and uphold high standards of operational excellence."
+                  "desc": "Led a team of 15+ employees, instilling a culture of continuous improvement and setting new standards for service excellence."
                 }
               ]
             }
@@ -154,11 +154,11 @@
               "dutyList": [
                 {
                   "id": "fullclip_01_01_01",
-                  "desc": "Championed client satisfaction initiatives, fostering strong, long-term relationships and consistently exceeding customer expectations."
+                  "desc": "Strengthened client relationships and improved satisfaction, leading to increased retention and customer loyalty."
                 },
                 {
                   "id": "fullclip_01_01_02",
-                  "desc": "Educated clients on innovative products and services, driving engagement and enhancing brand loyalty."
+                  "desc": "Educated clients on trending products, resulting in higher engagement and repeat business."
                 }
               ]
             }
@@ -176,11 +176,11 @@
               "dutyList": [
                 {
                   "id": "dbk_01_01_01",
-                  "desc": "Directed comprehensive budgetary planning, performance reviews, training programs, and contract negotiations."
+                  "desc": "Enhanced team productivity, driving operational efficiency and achieving significant performance improvements."
                 },
                 {
                   "id": "dbk_01_01_02",
-                  "desc": "Cultivated a culture of operational excellence, coaching teams on leadership principles, industry best practices, and company protocols."
+                  "desc": "Fostered a culture of innovation, leading to continuous operational enhancements and setting new benchmarks for the business."
                 }
               ]
             }
@@ -256,7 +256,7 @@
         },
         {
           "id": "project_10",
-          "name": "Vanilla Template'",
+          "name": "Vanilla Template",
           "href": "https://egarrisxn.github.io/portfolio-template/",
           "value": "egarrisxn.github.io/portfolio-template",
           "desc": "Fine-tuned this modern and beautiful portfolio template using only the powers from the trinity: HTML5, CSS3, & JavaScript."
@@ -303,7 +303,7 @@
         },
         {
           "id": "skill_08",
-          "name": "Agile/Scrum Methodologies",
+          "name": "Agile Methodologies",
           "desc": ""
         },
         {
