@@ -84,7 +84,7 @@
             {
               "id": "roughtail_01_01",
               "position": "Regional Account Manager",
-              "duration": "2021 - 2022",
+              "duration": "2021 - 2023",
               "dutyList": [
                 {
                   "id": "roughtail_01_01_01",
@@ -128,7 +128,7 @@
             {
               "id": "northside_01_01",
               "position": "Assistant General Manager",
-              "duration": "2018 - 2019",
+              "duration": "2017 - 2019",
               "dutyList": [
                 {
                   "id": "northside_01_01_01",
@@ -150,7 +150,7 @@
             {
               "id": "fullclip_01_01",
               "position": "Sales Manager",
-              "duration": "2015 - 2018",
+              "duration": "2014 - 2017",
               "dutyList": [
                 {
                   "id": "fullclip_01_01_01",
@@ -159,28 +159,6 @@
                 {
                   "id": "fullclip_01_01_02",
                   "desc": "Educated clients on trending products, resulting in higher engagement and repeat business."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dbk_01",
-          "name": "Dallas Beer Kitchen",
-          "location": "Dallas, TX",
-          "detailList": [
-            {
-              "id": "dbk_01_01",
-              "position": "General Manager",
-              "duration": "2011 - 2015",
-              "dutyList": [
-                {
-                  "id": "dbk_01_01_01",
-                  "desc": "Enhanced team productivity, driving operational efficiency and achieving significant performance improvements."
-                },
-                {
-                  "id": "dbk_01_01_02",
-                  "desc": "Fostered a culture of innovation, leading to continuous operational enhancements and setting new benchmarks for the business."
                 }
               ]
             }
@@ -207,59 +185,24 @@
         },
         {
           "id": "project_03",
-          "name": "WebSanity Builder",
-          "href": "https://websanitybuilder.vercel.app",
-          "value": "websanitybuilder.vercel.app",
-          "desc": "Created a CMS-driven website builder with Sanity, enabling users to effortlessly build and customize websites with a modern and intuitive interface."
-        },
-        {
-          "id": "project_04",
-          "name": "n00b:dev",
-          "href": "https://n00bdev.vercel.app",
-          "value": "n00bdev.vercel.app",
-          "desc": "Developed a server-side rendered blog using the Astro Framework & TypeScript, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
-        },
-        {
-          "id": "project_05",
           "name": "EGxWORLD v1",
           "href": "https://egxworld.vercel.app",
           "value": "egxworld.vercel.app",
           "desc": "Built my first portfolio as a developer with Next.js. Showcasing my attention to detail, this site displays projects, a little about me, a contact page, client testimonials, & more."
         },
         {
-          "id": "project_06",
-          "name": "EGxBLOG v1",
-          "href": "https://www.egxblog.net",
-          "value": "egxblog.net",
-          "desc": "Established my personal blog, EGxBLOG, as a platform to document my learning experiences and insights on web development and design."
-        },
-        {
-          "id": "project_07",
-          "name": "EG Movies",
-          "href": "https://eg-angular-movies.netlify.app",
-          "value": "eg-angular-movies.netlify.app",
-          "desc": "Developed a clean and intuitive movie database using Angular & TypeScript, providing users with a seamless and engaging experience for discovering and exploring movies."
-        },
-        {
-          "id": "project_08",
+          "id": "project_04",
           "name": "ATS Resbuilder",
-          "href": "https://resume-builder-omega-beige.vercel.app",
-          "value": "resume-builder-omega-beige.vercel.app",
-          "desc": "Designed an ATS-certified resume template tailored for developers, along with showcasing a variety of methods to create your own resume!."
+          "href": "https://ats-resbuilder.vercel.app",
+          "value": "ats-resbuilder.vercel.app",
+          "desc": "Designed an ATS friendly resume template tailored for developers, along with showcasing a variety of methods to create your own resume!."
         },
         {
-          "id": "project_09",
-          "name": "The Tech Forum",
-          "href": "https://mvc-tech-forum-de64e42b6cc2.herokuapp.com",
-          "value": "mvc-tech-forum-de64e42b6cc2.herokuapp.com",
-          "desc": "Formatted this CMS inspired forum application, demonstrating and highlighting the CRUD principles, and built with Express, MySQL, & more."
-        },
-        {
-          "id": "project_10",
-          "name": "Vanilla Template",
-          "href": "https://egarrisxn.github.io/portfolio-template/",
-          "value": "egarrisxn.github.io/portfolio-template",
-          "desc": "Fine-tuned this modern and beautiful portfolio template using only the powers from the trinity: HTML5, CSS3, & JavaScript."
+          "id": "project_05",
+          "name": "n00b:dev",
+          "href": "https://n00bdev.vercel.app",
+          "value": "n00bdev.vercel.app",
+          "desc": "Developed a server-side rendered blog using the Astro Framework & TypeScript, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
         }
       ]
     },
@@ -361,138 +304,108 @@
         },
         {
           "id": "technologies_04",
-          "name": "Angular",
-          "href": "https://www.angular.org/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_05",
           "name": "Next.js",
           "href": "https://www.nextjs.org/",
           "desc": ""
         },
         {
-          "id": "technologies_06",
+          "id": "technologies_05",
           "name": "Astro",
           "href": "https://www.astro.build/",
           "desc": ""
         },
         {
-          "id": "technologies_07",
-          "name": "jQuery",
-          "href": "https://www.jquery.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_08",
-          "name": "Alpine.js",
-          "href": "https://alpinejs.dev/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_09",
+          "id": "technologies_06",
           "name": "Git",
           "href": "https://www.git-scm.com/",
           "desc": ""
         },
         {
-          "id": "technologies_10",
+          "id": "technologies_07",
           "name": "PNPM",
           "href": "https://pnpm.io/",
           "desc": ""
         },
         {
-          "id": "technologies_11",
+          "id": "technologies_08",
           "name": "NPM",
           "href": "https://www.npmjs.com/",
           "desc": ""
         },
         {
-          "id": "technologies_12",
+          "id": "technologies_09",
           "name": "Webpack",
           "href": "https://webpack.js.org/",
           "desc": ""
         },
         {
-          "id": "technologies_13",
+          "id": "technologies_10",
           "name": "Vite",
           "href": "https://vitejs.dev/",
           "desc": ""
         },
         {
-          "id": "technologies_14",
+          "id": "technologies_11",
           "name": "ESLint",
           "href": "https://eslint.org/",
           "desc": ""
         },
         {
-          "id": "technologies_15",
+          "id": "technologies_12",
+          "name": "Jest",
+          "href": "https://jestjs.io/",
+          "desc": ""
+        },
+        {
+          "id": "technologies_13",
           "name": "Node.js",
           "href": "https://www.nodejs.org/",
           "desc": ""
         },
         {
-          "id": "technologies_16",
-          "name": "Deno",
-          "href": "https://www.deno.com/",
+          "id": "technologies_14",
+          "name": "Hono",
+          "href": "https://www.hono.dev/",
           "desc": ""
         },
         {
-          "id": "technologies_17",
-          "name": "Express",
+          "id": "technologies_15",
+          "name": "Express.js",
           "href": "https://www.expressjs.com/",
           "desc": ""
         },
         {
-          "id": "technologies_18",
+          "id": "technologies_16",
           "name": "MongoDB",
           "href": "https://www.mongodb.com/",
           "desc": ""
         },
         {
-          "id": "technologies_19",
-          "name": "GraphQL",
-          "href": "https://www.graphql.org/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_20",
+          "id": "technologies_17",
           "name": "MySQL",
           "href": "https://www.mysql.com/",
           "desc": ""
         },
         {
-          "id": "technologies_21",
+          "id": "technologies_18",
           "name": "Sanity",
           "href": "https://www.sanity.io/",
           "desc": ""
         },
         {
-          "id": "technologies_22",
+          "id": "technologies_19",
           "name": "TailwindCSS",
           "href": "https://www.tailwindcss.com/",
           "desc": ""
         },
         {
-          "id": "technologies_23",
-          "name": "Bootstrap",
-          "href": "https://www.getbootstrap.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_24",
+          "id": "technologies_20",
           "name": "Vercel",
           "href": "https://www.vercel.com/",
           "desc": ""
         },
         {
-          "id": "technologies_25",
-          "name": "Netlify",
-          "href": "https://www.netlify.com/",
-          "desc": ""
-        },
-        {
-          "id": "technologies_26",
+          "id": "technologies_21",
           "name": "Heroku",
           "href": "https://www.heroku.com/",
           "desc": ""
