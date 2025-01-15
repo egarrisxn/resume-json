@@ -8,7 +8,7 @@
     },
     "summary": {
       "title": "Summary",
-      "desc": "Dynamic Full-Stack Developer with a strong foundation in management, now focused on front-end development and server-side programming. Skilled in creating responsive and accessible user interfaces, managing databases, and integrating APIs. Proficient in Agile methodologies and optimization, delivering scalable web solutions that meet user needs and business goals."
+      "desc": "Versatile Full-Stack Developer with a strong foundation in management, now focused on front-end development and server-side programming. Proficient in creating responsive and accessible user interfaces, managing databases, and integrating APIs. Skilled in Agile methodologies and optimization, delivering scalable web solutions aligned with user needs and client objectives."
     },
     "contact": {
       "title": "Contact",
@@ -35,7 +35,7 @@
           "id": "info_04",
           "icon": "Website",
           "href": "https://egxo.dev",
-          "value": "Egxo.dev"
+          "value": "https://egxo.dev"
         },
         {
           "id": "info_06",
@@ -66,11 +66,11 @@
               "dutyList": [
                 {
                   "id": "freelance_01_01_01",
-                  "desc": "Develop and deploy applications using modern frameworks like React, Next.js, and Node.js, delivering robust and scalable solutions for client needs."
+                  "desc": "Develop and deploy high-quality applications using modern frameworks like React, Tailwind CSS, and Node.js."
                 },
                 {
                   "id": "freelance_01_01_02",
-                  "desc": "Implement responsive and accessible design principles to ensure an exceptional user experience and adherence to accessibility standards."
+                  "desc": "Implement responsive, accessible design principles for exceptional user experience and standards compliance."
                 }
               ]
             }
@@ -88,11 +88,11 @@
               "dutyList": [
                 {
                   "id": "roughtail_01_01_01",
-                  "desc": "Boosted regional sales by 20% through targeted marketing campaigns and strategic partnerships with distributors."
+                  "desc": "Resolved escalations and nurtured distributor relationships to strengthen business partnerships"
                 },
                 {
                   "id": "roughtail_01_01_02",
-                  "desc": "Streamlined coordination between sales and production teams, enhancing efficiency and alignment across departments."
+                  "desc": "Delivered a 20% increase in regional sales by implementing data-driven marketing strategies."
                 }
               ]
             }
@@ -110,11 +110,11 @@
               "dutyList": [
                 {
                   "id": "armadillo_01_01_01",
-                  "desc": "Drove a 25% increase in sales by expanding market reach and establishing strong distributor relationships."
+                  "desc": "Expanded market reach, achieving a 25% sales growth through strategic partnerships and innovative campaigns."
                 },
                 {
                   "id": "armadillo_01_01_02",
-                  "desc": "Championed collaborative strategies between sales, marketing, and production teams, aligning efforts to meet company growth objectives."
+                  "desc": "Facilitated collaboration across sales, production, and marketing teams to streamline operations."
                 }
               ]
             }
@@ -132,11 +132,11 @@
               "dutyList": [
                 {
                   "id": "northside_01_01_01",
-                  "desc": "Achieved significant reduction in costs through operational improvements, while upholding high service standards."
+                  "desc": "Streamlined operations and reduced costs while maintaining exceptional service standards."
                 },
                 {
                   "id": "northside_01_01_02",
-                  "desc": "Led a team of 15+ employees, instilling a culture of continuous improvement and setting new standards for service excellence."
+                  "desc": "Supervised a team of 15+ employees, fostering a culture of excellence and continuous improvement."
                 }
               ]
             }
@@ -154,11 +154,11 @@
               "dutyList": [
                 {
                   "id": "fullclip_01_01_01",
-                  "desc": "Strengthened client relationships and improved satisfaction, leading to increased retention and customer loyalty."
+                  "desc": "Cultivated long-term client relationships by resolving inquiries efficiently and providing tailored solutions."
                 },
                 {
                   "id": "fullclip_01_01_02",
-                  "desc": "Educated clients on trending products, resulting in higher engagement and repeat business."
+                  "desc": "Proactively educated clients on new products, leading to a higher satisfaction and retention rate."
                 }
               ]
             }
@@ -174,35 +174,28 @@
           "name": "Sway Bae Official",
           "href": "https://www.swaybae.net",
           "value": "swaybae.net",
-          "desc": "Designed and developed the official website for professional streamer & content creator, Sway Bae, showcasing dynamic content and engaging user experience."
+          "desc": "Built a professional website optimized for SEO and integrated with a headless CMS to enhance content management."
         },
         {
           "id": "project_02",
           "name": "Unofficial Merchandise",
           "href": "https://unofficialmerchandise.vercel.app",
           "value": "unofficialmerchandise.vercel.app",
-          "desc": "Developed a fully functional e-commerce webstore integrated with the Stripe payment gateway, ensuring a secure and seamless shopping experience for customers."
+          "desc": "Created a modern e-commerce site with a user-centric design, enhancing user experience and driving sales potential."
         },
         {
           "id": "project_03",
-          "name": "EGxWORLD v1",
-          "href": "https://egxworld.vercel.app",
-          "value": "egxworld.vercel.app",
-          "desc": "Built my first portfolio as a developer with Next.js. Showcasing my attention to detail, this site displays projects, a little about me, a contact page, client testimonials, & more."
-        },
-        {
-          "id": "project_04",
-          "name": "ATS Resbuilder",
-          "href": "https://ats-resbuilder.vercel.app",
-          "value": "ats-resbuilder.vercel.app",
-          "desc": "Designed an ATS friendly resume template tailored for developers, along with showcasing a variety of methods to create your own resume!."
-        },
-        {
-          "id": "project_05",
           "name": "n00b:dev",
           "href": "https://n00bdev.vercel.app",
           "value": "n00bdev.vercel.app",
-          "desc": "Developed a server-side rendered blog using the Astro Framework & TypeScript, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
+          "desc": "Developed a server-side rendered blog, focusing on delivering insightful content with optimal performance."
+        },
+        {
+          "id": "project_04",
+          "name": "YTS",
+          "href": "https://your-typed-website.vercel.app",
+          "value": "your-typed-website.vercel.app",
+          "desc": "Designed a type-safe portfolio template for developers, leveraging modern frameworks for enhanced functionality."
         }
       ]
     },
