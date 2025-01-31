@@ -192,9 +192,9 @@
         },
         {
           "id": "project_04",
-          "name": "YTS",
-          "href": "https://your-typed-website.vercel.app",
-          "value": "your-typed-website.vercel.app",
+          "name": "CC NextFolio",
+          "href": "https://cc-nextfolio.vercel.app",
+          "value": "cc-nextfolio.vercel.app",
           "desc": "Designed a type-safe portfolio template for developers, leveraging modern frameworks for enhanced functionality."
         }
       ]
