@@ -38,6 +38,12 @@
           "value": "https://egxo.dev"
         },
         {
+          "id": "info_05",
+          "icon": "Blog",
+          "href": "https://egxo.fyi",
+          "value": "https://egxo.fyi"
+        },
+        {
           "id": "info_06",
           "icon": "Linkedin",
           "href": "https://linkedin.com/in/ethan-gx",
