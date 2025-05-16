@@ -206,31 +206,31 @@
     "projectList": [
       {
         "id": "project_01",
+        "name": "Quik|Res",
+        "href": "https://quikres.vercel.app",
+        "value": ["quikres.vercel.app"],
+        "desc": " Developed an AI-powered resume-to-website generator for creating polished personal sites with ease."
+      },
+      {
+        "id": "project_02",
+        "name": "ManyLinks",
+        "href": "https://manylinks.vercel.app",
+        "value": ["manylinks.vercel.app"],
+        "desc": "Designed a sleek, single-page link aggregator to showcase all your important links in one place."
+      },
+      {
+        "id": "project_03",
         "name": "Sway Bae Official",
         "href": "https://www.swaybae.net",
         "value": ["swaybae.net"],
         "desc": "Built a professional website optimized for SEO and integrated with a headless CMS to enhance content management."
       },
       {
-        "id": "project_02",
+        "id": "project_04",
         "name": "Unofficial Merchandise",
         "href": "https://unofficialmerchandise.vercel.app",
         "value": ["unofficialmerchandise.vercel.app"],
         "desc": "Created a modern e-commerce site with a user-centric design, enhancing user experience and driving sales potential."
-      },
-      {
-        "id": "project_03",
-        "name": "n00b:dev",
-        "href": "https://n00bdev.vercel.app",
-        "value": ["n00bdev.vercel.app"],
-        "desc": "Developed a server-side rendered blog, focusing on delivering insightful content with optimal performance."
-      },
-      {
-        "id": "project_04",
-        "name": "CC NextFolio",
-        "href": "https://cc-nextfolio.vercel.app",
-        "value": ["cc-nextfolio.vercel.app"],
-        "desc": "Designed a type-safe portfolio template for developers, leveraging modern frameworks for enhanced functionality."
       }
     ]
   },
@@ -356,10 +356,10 @@
       },
       {
         "id": "technologies_05",
-        "name": "Astro",
-        "href": "https://www.astro.build/",
+        "name": "GitHub",
+        "href": "https://www.github.com/",
         "desc": "",
-        "value": ["Astro"]
+        "value": ["GitHub"]
       },
       {
         "id": "technologies_06",
@@ -385,9 +385,9 @@
       {
         "id": "technologies_09",
         "name": "Webpack",
-        "href": "https://webpack.js.org/",
+        "href": "https://nextjs.org/docs/app/api-reference/turbopack",
         "desc": "",
-        "value": ["Webpack"]
+        "value": ["Turbopack"]
       },
       {
         "id": "technologies_10",
@@ -405,10 +405,10 @@
       },
       {
         "id": "technologies_12",
-        "name": "Jest",
-        "href": "https://jestjs.io/",
+        "name": "MDX",
+        "href": "https://mdxjs.com/",
         "desc": "",
-        "value": ["Jest"]
+        "value": ["MDX"]
       },
       {
         "id": "technologies_13",
@@ -419,10 +419,10 @@
       },
       {
         "id": "technologies_14",
-        "name": "Hono",
-        "href": "https://www.hono.dev/",
+        "name": "Supabase",
+        "href": "https://www.supabase.com/",
         "desc": "",
-        "value": ["Hono"]
+        "value": ["Supabase"]
       },
       {
         "id": "technologies_15",
@@ -440,10 +440,10 @@
       },
       {
         "id": "technologies_17",
-        "name": "MySQL",
-        "href": "https://www.mysql.com/",
+        "name": "PostgreSQL",
+        "href": "https://www.postgresql.org/",
         "desc": "",
-        "value": ["MySQL"]
+        "value": ["PostgreSQL"]
       },
       {
         "id": "technologies_18",
@@ -468,10 +468,10 @@
       },
       {
         "id": "technologies_21",
-        "name": "Heroku",
-        "href": "https://www.heroku.com/",
+        "name": "Canva",
+        "href": "https://www.canva.com/",
         "desc": "",
-        "value": ["Heroku"]
+        "value": ["Canva"]
       }
     ]
   },
