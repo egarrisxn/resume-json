@@ -1,0 +1,408 @@
+{
+  "heading": {
+    "title": "",
+    "name": "Lucas Brennan",
+    "position": "Full-Stack Engineer",
+    "avatar": "https://example.com/images/avatar.png"
+  },
+  "summary": {
+    "title": "Summary",
+    "desc": "Detail-oriented Full-Stack Engineer with a background in logistics and a passion for scalable web applications. Experienced in creating interactive front-end interfaces and robust back-end systems. Adept at delivering performant and secure codebases using modern tools and best practices."
+  },
+  "contact": {
+    "title": "Contact",
+    "contactList": [
+      {
+        "id": "info_01",
+        "icon": "Email",
+        "href": "mailto:lucas.b@example.com",
+        "value": ["lucas.b@example.com"]
+      },
+      {
+        "id": "info_02",
+        "icon": "Location",
+        "href": "https://www.google.com/maps/place/Denver,+CO",
+        "value": ["Denver, CO"]
+      },
+      {
+        "id": "info_03",
+        "icon": "Phone",
+        "href": "tel:+12345678900",
+        "value": ["123.456.7890"]
+      },
+      {
+        "id": "info_04",
+        "icon": "Website",
+        "href": "https://lucasdev.io",
+        "value": ["https://lucasdev.io"]
+      },
+      {
+        "id": "info_05",
+        "icon": "Blog",
+        "href": "https://lucaswrites.blog",
+        "value": ["https://lucaswrites.blog"]
+      },
+      {
+        "id": "info_06",
+        "icon": "Linkedin",
+        "href": "https://linkedin.com/in/lucas-brennan",
+        "value": ["Linkedin.com/in/lucas-brennan"]
+      },
+      {
+        "id": "info_07",
+        "icon": "Github",
+        "href": "https://github.com/lucasbren",
+        "value": ["Github.com/lucasbren"]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experienceList": [
+      {
+        "id": "freelance_01",
+        "name": "Independent Contractor",
+        "location": "Remote",
+        "detailList": [
+          {
+            "id": "freelance_01_01",
+            "position": "Full-Stack Engineer",
+            "duration": "2022 - Present",
+            "dutyList": [
+              {
+                "id": "freelance_01_01_01",
+                "desc": "Architected and deployed full-stack applications for clients using TypeScript, React, and PostgreSQL.",
+                "value": [
+                  "Architected and deployed full-stack applications for clients using TypeScript, React, and PostgreSQL."
+                ]
+              },
+              {
+                "id": "freelance_01_01_02",
+                "desc": "Designed accessible UI components with Tailwind CSS and optimized performance across devices.",
+                "value": [
+                  "Designed accessible UI components with Tailwind CSS and optimized performance across devices."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pinebyte_01",
+        "name": "Pinebyte Technologies",
+        "location": "Seattle, WA",
+        "detailList": [
+          {
+            "id": "pinebyte_01_01",
+            "position": "Software Engineer",
+            "duration": "2020 - 2022",
+            "dutyList": [
+              {
+                "id": "pinebyte_01_01_01",
+                "desc": "Led a migration project from AngularJS to React, improving maintainability and developer productivity.",
+                "value": [
+                  "Led a migration project from AngularJS to React, improving maintainability and developer productivity."
+                ]
+              },
+              {
+                "id": "pinebyte_01_01_02",
+                "desc": "Created internal tools to automate deployment pipelines and reduce CI/CD cycle time by 40%.",
+                "value": [
+                  "Created internal tools to automate deployment pipelines and reduce CI/CD cycle time by 40%."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "logix_01",
+        "name": "Logix Systems",
+        "location": "Boise, ID",
+        "detailList": [
+          {
+            "id": "logix_01_01",
+            "position": "Systems Analyst",
+            "duration": "2017 - 2020",
+            "dutyList": [
+              {
+                "id": "logix_01_01_01",
+                "desc": "Managed SQL databases and wrote queries to support analytics for enterprise logistics systems.",
+                "value": [
+                  "Managed SQL databases and wrote queries to support analytics for enterprise logistics systems."
+                ]
+              },
+              {
+                "id": "logix_01_01_02",
+                "desc": "Collaborated with cross-functional teams to implement API integrations with warehouse hardware.",
+                "value": [
+                  "Collaborated with cross-functional teams to implement API integrations with warehouse hardware."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nova_01",
+        "name": "Nova Cafe",
+        "location": "Salt Lake City, UT",
+        "detailList": [
+          {
+            "id": "nova_01_01",
+            "position": "Shift Manager",
+            "duration": "2015 - 2017",
+            "dutyList": [
+              {
+                "id": "nova_01_01_01",
+                "desc": "Oversaw daily operations, supervised staff, and maintained a high customer satisfaction rating.",
+                "value": [
+                  "Oversaw daily operations, supervised staff, and maintained a high customer satisfaction rating."
+                ]
+              },
+              {
+                "id": "nova_01_01_02",
+                "desc": "Reduced labor costs by 12% through scheduling optimization and staff training programs.",
+                "value": [
+                  "Reduced labor costs by 12% through scheduling optimization and staff training programs."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zenfoods_01",
+        "name": "ZenFoods Distribution",
+        "location": "Phoenix, AZ",
+        "detailList": [
+          {
+            "id": "zenfoods_01_01",
+            "position": "Territory Sales Rep",
+            "duration": "2012 - 2015",
+            "dutyList": [
+              {
+                "id": "zenfoods_01_01_01",
+                "desc": "Built and maintained a sales pipeline across 3 states, achieving top-quartile performance annually.",
+                "value": [
+                  "Built and maintained a sales pipeline across 3 states, achieving top-quartile performance annually."
+                ]
+              },
+              {
+                "id": "zenfoods_01_01_02",
+                "desc": "Conducted regular market analysis and adjusted strategy to stay ahead of local competitors.",
+                "value": [
+                  "Conducted regular market analysis and adjusted strategy to stay ahead of local competitors."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "projectList": [
+      {
+        "id": "project_01",
+        "name": "StreamLine Docs",
+        "href": "https://streamlinedocs.dev",
+        "value": ["streamlinedocs.dev"],
+        "desc": "Developed a documentation SaaS with markdown editing, user auth, and multi-tenant architecture."
+      },
+      {
+        "id": "project_02",
+        "name": "ShopShack",
+        "href": "https://shopshack.vercel.app",
+        "value": ["shopshack.vercel.app"],
+        "desc": "Built a feature-rich online storefront with real-time inventory sync and Stripe integration."
+      },
+      {
+        "id": "project_03",
+        "name": "DevPath",
+        "href": "https://devpath.tech",
+        "value": ["devpath.tech"],
+        "desc": "Created a roadmap tool for developers to track learning progress and share custom paths."
+      },
+      {
+        "id": "project_04",
+        "name": "PortLite",
+        "href": "https://portlite.io",
+        "value": ["portlite.io"],
+        "desc": "Designed a customizable portfolio template with support for dark mode and dynamic routing."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "skillList": [
+      {
+        "id": "skill_01",
+        "name": "Team Leadership",
+        "desc": "",
+        "value": ["Team Leadership"]
+      },
+      {
+        "id": "skill_02",
+        "name": "Component-Driven Development",
+        "desc": "",
+        "value": ["Component-Driven Development"]
+      },
+      {
+        "id": "skill_03",
+        "name": "Responsive Design",
+        "desc": "",
+        "value": ["Responsive Design"]
+      },
+      {
+        "id": "skill_04",
+        "name": "Performance Debugging",
+        "desc": "",
+        "value": ["Performance Debugging"]
+      },
+      {
+        "id": "skill_05",
+        "name": "SEO Optimization",
+        "desc": "",
+        "value": ["SEO Optimization"]
+      },
+      {
+        "id": "skill_06",
+        "name": "RESTful & GraphQL APIs",
+        "desc": "",
+        "value": ["RESTful & GraphQL APIs"]
+      },
+      {
+        "id": "skill_07",
+        "name": "Cloud Infrastructure",
+        "desc": "",
+        "value": ["Cloud Infrastructure"]
+      },
+      {
+        "id": "skill_08",
+        "name": "Agile Development",
+        "desc": "",
+        "value": ["Agile Development"]
+      },
+      {
+        "id": "skill_09",
+        "name": "Data Modeling",
+        "desc": "",
+        "value": ["Data Modeling"]
+      },
+      {
+        "id": "skill_10",
+        "name": "Object-Oriented Analysis",
+        "desc": "",
+        "value": ["Object-Oriented Analysis"]
+      },
+      {
+        "id": "skill_11",
+        "name": "CI/CD Pipelines",
+        "desc": "",
+        "value": ["CI/CD Pipelines"]
+      },
+      {
+        "id": "skill_12",
+        "name": "OAuth & JWT Auth",
+        "desc": "",
+        "value": ["OAuth & JWT Auth"]
+      },
+      {
+        "id": "skill_13",
+        "name": "Git Workflow",
+        "desc": "",
+        "value": ["Git Workflow"]
+      },
+      {
+        "id": "skill_14",
+        "name": "Secure Coding",
+        "desc": "",
+        "value": ["Secure Coding"]
+      }
+    ]
+  },
+  "technologies": {
+    "title": "Technologies",
+    "technologiesList": [
+      {
+        "id": "technologies_01",
+        "name": "JavaScript",
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "desc": "",
+        "value": ["JavaScript"]
+      },
+      {
+        "id": "technologies_02",
+        "name": "TypeScript",
+        "href": "https://www.typescriptlang.org/",
+        "desc": "",
+        "value": ["TypeScript"]
+      },
+      {
+        "id": "technologies_03",
+        "name": "React",
+        "href": "https://reactjs.org/",
+        "desc": "",
+        "value": ["React"]
+      },
+      {
+        "id": "technologies_04",
+        "name": "Next.js",
+        "href": "https://nextjs.org/",
+        "desc": "",
+        "value": ["Next.js"]
+      },
+      {
+        "id": "technologies_05",
+        "name": "Astro",
+        "href": "https://astro.build/",
+        "desc": "",
+        "value": ["Astro"]
+      },
+      {
+        "id": "technologies_06",
+        "name": "Git",
+        "href": "https://git-scm.com/",
+        "desc": "",
+        "value": ["Git"]
+      },
+      {
+        "id": "technologies_07",
+        "name": "PNPM",
+        "href": "https://pnpm.io/",
+        "desc": "",
+        "value": ["PNPM"]
+      },
+      {
+        "id": "technologies_08",
+        "name": "NPM",
+        "href": "https://www.npmjs.com/",
+        "desc": "",
+        "value": ["NPM"]
+      },
+      {
+        "id": "technologies_09",
+        "name": "Webpack",
+        "href": "https://webpack.js.org/",
+        "desc": "",
+        "value": ["Webpack"]
+      },
+      {
+        "id": "technologies_10",
+        "name": "Vite",
+        "href": "https://vitejs.dev/",
+        "desc": "",
+        "value": ["Vite"]
+      },
+      {
+        "id": "technologies_11",
+        "name": "ESLint",
+        "href": "https://eslint.org/",
+        "desc": "",
+        "value": ["ESLint"]
+      }
+    ]
+  }
+}
