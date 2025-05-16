@@ -3,7 +3,7 @@
     "title": "",
     "name": "Lucas Brennan",
     "position": "Full-Stack Engineer",
-   "avatar": "https://example.com/images/example-avatar.png"
+    "avatar": "https://egarrisxn.github.io/resume-json/images/example-avatar.png"
   },
   "summary": {
     "title": "Summary",
@@ -402,6 +402,60 @@
         "href": "https://eslint.org/",
         "desc": "",
         "value": ["ESLint"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "educationList": [
+      {
+        "id": "education_01",
+        "name": "Northlake Institute of Technology",
+        "location": "Vermont",
+        "href": "https://www.northlakeit.edu/",
+        "degree": "Diploma in Web Application Development",
+        "duration": "2021",
+        "desc": "",
+        "value": ["Diploma in Web Application Development"]
+      },
+      {
+        "id": "education_02",
+        "name": "Brookfield College",
+        "location": "Oregon",
+        "href": "https://www.brookfieldcollege.edu/",
+        "degree": "Associate Degree in Digital Media",
+        "duration": "2017",
+        "desc": "",
+        "value": ["Associate Degree in Digital Media"]
+      }
+    ]
+  },
+  "hobbies": {
+    "title": "Hobbies",
+    "hobbyList": [
+      {
+        "id": "hobby_01",
+        "name": "Building indie web apps",
+        "desc": "",
+        "value": ["Building indie web apps"]
+      },
+      {
+        "id": "hobby_02",
+        "name": "Sketching UI ideas",
+        "desc": "",
+        "value": ["Sketching UI ideas"]
+      },
+      {
+        "id": "hobby_03",
+        "name": "Reverse-engineering apps for learning",
+        "desc": "",
+        "value": ["Reverse-engineering apps for learning"]
+      },
+      {
+        "id": "hobby_04",
+        "name": "Testing beta tools and platforms",
+        "desc": "",
+        "value": ["Testing beta tools and platforms"]
       }
     ]
   }
