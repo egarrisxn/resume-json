@@ -7,7 +7,7 @@
   },
   "summary": {
     "title": "Summary",
-    "desc": "Detail-oriented Full-Stack Engineer with a background in logistics and a passion for scalable web applications. Experienced in creating interactive front-end interfaces and robust back-end systems. Adept at delivering performant and secure codebases using modern tools and best practices."
+    "desc": "Detail-oriented Full-Stack Engineer with a strong foundation in both software development and logistics operations. Adept at designing and implementing scalable, maintainable web applications with a focus on performance, accessibility, and user experience. Proven track record of building robust front-end interfaces with modern frameworks like React and TypeScript, alongside secure and efficient back-end systems using Node.js, PostgreSQL, and RESTful APIs. Experienced in DevOps practices, CI/CD automation, and cross-functional collaboration. Passionate about clean code, continuous learning, and delivering real-world value through technology."
   },
   "contact": {
     "title": "Contact",
@@ -71,16 +71,16 @@
             "dutyList": [
               {
                 "id": "freelance_01_01_01",
-                "desc": "Architected and deployed full-stack applications for clients using TypeScript, React, and PostgreSQL.",
+                "desc": "Architected, developed, and deployed full-stack web applications tailored to small business needs, using TypeScript, React for frontend interfaces, Node.js, and PostgreSQL for backend services and data persistence.",
                 "value": [
-                  "Architected and deployed full-stack applications for clients using TypeScript, React, and PostgreSQL."
+                  "Architected, developed, and deployed full-stack web applications tailored to small business needs, using TypeScript, React for frontend interfaces, Node.js, and PostgreSQL for backend services and data persistence."
                 ]
               },
               {
                 "id": "freelance_01_01_02",
-                "desc": "Designed accessible UI components with Tailwind CSS and optimized performance across devices.",
+                "desc": "Designed and implemented accessible, responsive UI components using Tailwind CSS, focusing on performance optimization across various devices, including mobile and low-powered hardware.",
                 "value": [
-                  "Designed accessible UI components with Tailwind CSS and optimized performance across devices."
+                  "Designed and implemented accessible, responsive UI components using Tailwind CSS, focusing on performance optimization across various devices, including mobile and low-powered hardware."
                 ]
               }
             ]
@@ -99,16 +99,16 @@
             "dutyList": [
               {
                 "id": "pinebyte_01_01_01",
-                "desc": "Led a migration project from AngularJS to React, improving maintainability and developer productivity.",
+                "desc": "Led a large-scale front-end migration from a legacy AngularJS codebase to modern React with TypeScript, significantly improving developer experience, reducing bugs, and modernizing the architecture for future scalability.",
                 "value": [
-                  "Led a migration project from AngularJS to React, improving maintainability and developer productivity."
+                  "Led a large-scale front-end migration from a legacy AngularJS codebase to modern React with TypeScript, significantly improving developer experience, reducing bugs, and modernizing the architecture for future scalability."
                 ]
               },
               {
                 "id": "pinebyte_01_01_02",
-                "desc": "Created internal tools to automate deployment pipelines and reduce CI/CD cycle time by 40%.",
+                "desc": "Built and maintained internal developer tools, automated CI/CD workflows, and streamlined deployment pipelines using GitHub Actions and Docker, reducing the average deployment time by over 40%.",
                 "value": [
-                  "Created internal tools to automate deployment pipelines and reduce CI/CD cycle time by 40%."
+                  "Built and maintained internal developer tools, automated CI/CD workflows, and streamlined deployment pipelines using GitHub Actions and Docker, reducing the average deployment time by over 40%."
                 ]
               }
             ]
@@ -127,16 +127,16 @@
             "dutyList": [
               {
                 "id": "logix_01_01_01",
-                "desc": "Managed SQL databases and wrote queries to support analytics for enterprise logistics systems.",
+                "desc": "Managed and optimized enterprise-level SQL databases, writing complex queries, stored procedures, and views to support real-time logistics analytics and reporting for internal and client-facing applications.",
                 "value": [
-                  "Managed SQL databases and wrote queries to support analytics for enterprise logistics systems."
+                  "Managed and optimized enterprise-level SQL databases, writing complex queries, stored procedures, and views to support real-time logistics analytics and reporting for internal and client-facing applications."
                 ]
               },
               {
                 "id": "logix_01_01_02",
-                "desc": "Collaborated with cross-functional teams to implement API integrations with warehouse hardware.",
+                "desc": "Collaborated with software, hardware, and network teams to implement and test RESTful API integrations with warehouse systems, including barcode scanners, inventory modules, and RFID tracking devices.",
                 "value": [
-                  "Collaborated with cross-functional teams to implement API integrations with warehouse hardware."
+                  "Collaborated with software, hardware, and network teams to implement and test RESTful API integrations with warehouse systems, including barcode scanners, inventory modules, and RFID tracking devices."
                 ]
               }
             ]
@@ -155,16 +155,16 @@
             "dutyList": [
               {
                 "id": "nova_01_01_01",
-                "desc": "Oversaw daily operations, supervised staff, and maintained a high customer satisfaction rating.",
+                "desc": "Managed all aspects of daily café operations, including inventory tracking, team scheduling, customer conflict resolution, and ensuring consistent service delivery that resulted in a 4.8+ average customer rating.",
                 "value": [
-                  "Oversaw daily operations, supervised staff, and maintained a high customer satisfaction rating."
+                  "Managed all aspects of daily café operations, including inventory tracking, team scheduling, customer conflict resolution, and ensuring consistent service delivery that resulted in a 4.8+ average customer rating."
                 ]
               },
               {
                 "id": "nova_01_01_02",
-                "desc": "Reduced labor costs by 12% through scheduling optimization and staff training programs.",
+                "desc": "Implemented scheduling and workflow improvements that cut labor costs by 12%, while maintaining peak-hour coverage and improving team morale through targeted training and leadership coaching.",
                 "value": [
-                  "Reduced labor costs by 12% through scheduling optimization and staff training programs."
+                  "Implemented scheduling and workflow improvements that cut labor costs by 12%, while maintaining peak-hour coverage and improving team morale through targeted training and leadership coaching."
                 ]
               }
             ]
@@ -183,16 +183,16 @@
             "dutyList": [
               {
                 "id": "zenfoods_01_01_01",
-                "desc": "Built and maintained a sales pipeline across 3 states, achieving top-quartile performance annually.",
+                "desc": "Established and maintained a growing book of business across Arizona, New Mexico, and Nevada, securing high-value retail accounts and achieving consistent top-quartile sales performance over three years.",
                 "value": [
-                  "Built and maintained a sales pipeline across 3 states, achieving top-quartile performance annually."
+                  "Established and maintained a growing book of business across Arizona, New Mexico, and Nevada, securing high-value retail accounts and achieving consistent top-quartile sales performance over three years."
                 ]
               },
               {
                 "id": "zenfoods_01_01_02",
-                "desc": "Conducted regular market analysis and adjusted strategy to stay ahead of local competitors.",
+                "desc": "Conducted detailed competitor analysis and local market research, adjusting pricing and promotional tactics based on region-specific trends to maximize client retention and penetration.",
                 "value": [
-                  "Conducted regular market analysis and adjusted strategy to stay ahead of local competitors."
+                  "Conducted detailed competitor analysis and local market research, adjusting pricing and promotional tactics based on region-specific trends to maximize client retention and penetration."
                 ]
               }
             ]
@@ -244,10 +244,10 @@
         "value": ["Team Leadership"]
       },
       {
-        "id": "skill_02",
-        "name": "Component-Driven Development",
+        "id": "skill_2",
+        "name": "Git Workflow",
         "desc": "",
-        "value": ["Component-Driven Development"]
+        "value": ["Git Workflow"]
       },
       {
         "id": "skill_03",
@@ -308,18 +308,6 @@
         "name": "OAuth & JWT Auth",
         "desc": "",
         "value": ["OAuth & JWT Auth"]
-      },
-      {
-        "id": "skill_13",
-        "name": "Git Workflow",
-        "desc": "",
-        "value": ["Git Workflow"]
-      },
-      {
-        "id": "skill_14",
-        "name": "Secure Coding",
-        "desc": "",
-        "value": ["Secure Coding"]
       }
     ]
   },
@@ -402,6 +390,55 @@
         "href": "https://eslint.org/",
         "desc": "",
         "value": ["ESLint"]
+      },
+      {
+        "id": "technologies_12",
+        "name": "Jest",
+        "href": "https://jestjs.io/",
+        "desc": "",
+        "value": ["Jest"]
+      },
+      {
+        "id": "technologies_13",
+        "name": "Node.js",
+        "href": "https://www.nodejs.org/",
+        "desc": "",
+        "value": ["Node.js"]
+      },
+      {
+        "id": "technologies_14",
+        "name": "Hono",
+        "href": "https://www.hono.dev/",
+        "desc": "",
+        "value": ["Hono"]
+      },
+      {
+        "id": "technologies_15",
+        "name": "Express.js",
+        "href": "https://www.expressjs.com/",
+        "desc": "",
+        "value": ["Express.js"]
+      },
+      {
+        "id": "technologies_16",
+        "name": "MongoDB",
+        "href": "https://www.mongodb.com/",
+        "desc": "",
+        "value": ["MongoDB"]
+      },
+      {
+        "id": "technologies_17",
+        "name": "MySQL",
+        "href": "https://www.mysql.com/",
+        "desc": "",
+        "value": ["MySQL"]
+      },
+      {
+        "id": "technologies_18",
+        "name": "Sanity",
+        "href": "https://www.sanity.io/",
+        "desc": "",
+        "value": ["Sanity"]
       }
     ]
   },
@@ -435,27 +472,27 @@
     "hobbyList": [
       {
         "id": "hobby_01",
-        "name": "Building indie web apps",
+        "name": "Building indie web apps for the whole world",
         "desc": "",
-        "value": ["Building indie web apps"]
+        "value": ["Building indie web apps for the whole world"]
       },
       {
         "id": "hobby_02",
-        "name": "Sketching UI ideas",
+        "name": "Sketching UI ideas for the present and future",
         "desc": "",
-        "value": ["Sketching UI ideas"]
+        "value": ["Sketching UI ideas for the present and future"]
       },
       {
         "id": "hobby_03",
-        "name": "Reverse-engineering apps for learning",
+        "name": "Reverse-engineering apps for learning now",
         "desc": "",
-        "value": ["Reverse-engineering apps for learning"]
+        "value": ["Reverse-engineering apps for learning now"]
       },
       {
         "id": "hobby_04",
-        "name": "Testing beta tools and platforms",
+        "name": "Testing beta tools and platforms for myself",
         "desc": "",
-        "value": ["Testing beta tools and platforms"]
+        "value": ["Testing beta tools and platforms for myself"]
       }
     ]
   }
