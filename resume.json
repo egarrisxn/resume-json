@@ -1,13 +1,13 @@
 {
   "heading": {
     "title": "",
-    "name": "Ethan Garrison",
-    "position": "Full-Stack Developer",
-    "avatar": "https://egarrisxn.github.io/resume-json/images/avatar.png"
+    "name": "Lucas Brennan",
+    "position": "Full-Stack Engineer",
+    "avatar": "https://egarrisxn.github.io/resume-json/images/example-avatar.png"
   },
   "summary": {
     "title": "Summary",
-    "desc": "Versatile Full-Stack Developer with a strong foundation in management, now focused on front-end development and server-side programming. Proficient in creating responsive and accessible user interfaces, managing databases, and integrating APIs. Skilled in Agile methodologies and optimization, delivering scalable web solutions aligned with user needs and client objectives."
+    "desc": "Detail-oriented Full-Stack Engineer with a strong foundation in both software development and logistics operations. Adept at designing and implementing scalable, maintainable web applications with a focus on performance, accessibility, and user experience. Proven track record of building robust front-end interfaces with modern frameworks like React and TypeScript, alongside secure and efficient back-end systems using Node.js, PostgreSQL, and RESTful APIs. Experienced in DevOps practices, CI/CD automation, and cross-functional collaboration. Passionate about clean code, continuous learning, and delivering real-world value through technology."
   },
   "contact": {
     "title": "Contact",
@@ -15,44 +15,44 @@
       {
         "id": "info_01",
         "icon": "Email",
-        "href": "mailto:egarrisxn@gmail.com",
-        "value": ["Egarrisxn@gmail.com"]
+        "href": "mailto:lucas.b@example.com",
+        "value": ["lucas.b@example.com"]
       },
       {
         "id": "info_02",
         "icon": "Location",
-        "href": "https://www.google.com/maps/place/Orlando,+FL",
-        "value": ["Orlando, Fl"]
+        "href": "https://www.google.com/maps/place/Denver,+CO",
+        "value": ["Denver, CO"]
       },
       {
         "id": "info_03",
         "icon": "Phone",
-        "href": "tel:+15802844513",
-        "value": ["580.284.4513"]
+        "href": "tel:+12345678900",
+        "value": ["123.456.7890"]
       },
       {
         "id": "info_04",
         "icon": "Website",
-        "href": "https://egxo.dev",
-        "value": ["https://egxo.dev"]
+        "href": "https://lucasdev.io",
+        "value": ["https://lucasdev.io"]
       },
       {
         "id": "info_05",
         "icon": "Blog",
-        "href": "https://egxo.fyi",
-        "value": ["https://egxo.fyi"]
+        "href": "https://lucaswrites.blog",
+        "value": ["https://lucaswrites.blog"]
       },
       {
         "id": "info_06",
         "icon": "Linkedin",
-        "href": "https://linkedin.com/in/ethan-gx",
-        "value": ["Linkedin.com/in/ethan-gx"]
+        "href": "https://linkedin.com/in/lucas-brennan",
+        "value": ["Linkedin.com/in/lucas-brennan"]
       },
       {
         "id": "info_07",
         "icon": "Github",
-        "href": "https://github.com/egarrisxn",
-        "value": ["Github.com/egarrisxn"]
+        "href": "https://github.com/lucasbren",
+        "value": ["Github.com/lucasbren"]
       }
     ]
   },
@@ -61,26 +61,26 @@
     "experienceList": [
       {
         "id": "freelance_01",
-        "name": "Freelance",
-        "location": "Orlando, FL",
+        "name": "Independent Contractor",
+        "location": "Remote",
         "detailList": [
           {
             "id": "freelance_01_01",
-            "position": "Full-Stack Web Developer",
-            "duration": "2023 - Present",
+            "position": "Full-Stack Engineer",
+            "duration": "2022 - Present",
             "dutyList": [
               {
                 "id": "freelance_01_01_01",
-                "desc": "Develop and deploy high-quality applications using modern frameworks like React, Tailwind CSS, and Node.js.",
+                "desc": "Architected, developed, and deployed full-stack web applications tailored to small business needs, using TypeScript, React for frontend interfaces, Node.js, and PostgreSQL for backend services and data persistence.",
                 "value": [
-                  "Develop and deploy high-quality applications using modern frameworks like React, Tailwind CSS, and Node.js."
+                  "Architected, developed, and deployed full-stack web applications tailored to small business needs, using TypeScript, React for frontend interfaces, Node.js, and PostgreSQL for backend services and data persistence."
                 ]
               },
               {
                 "id": "freelance_01_01_02",
-                "desc": "Implement responsive, accessible design principles for exceptional user experience and standards compliance.",
+                "desc": "Designed and implemented accessible, responsive UI components using Tailwind CSS, focusing on performance optimization across various devices, including mobile and low-powered hardware.",
                 "value": [
-                  "Implement responsive, accessible design principles for exceptional user experience and standards compliance."
+                  "Designed and implemented accessible, responsive UI components using Tailwind CSS, focusing on performance optimization across various devices, including mobile and low-powered hardware."
                 ]
               }
             ]
@@ -88,27 +88,27 @@
         ]
       },
       {
-        "id": "roughtail_01",
-        "name": "Roughtail Brewing Company",
-        "location": "Oklahoma City, OK",
+        "id": "pinebyte_01",
+        "name": "Pinebyte Technologies",
+        "location": "Seattle, WA",
         "detailList": [
           {
-            "id": "roughtail_01_01",
-            "position": "Regional Account Manager",
-            "duration": "2021 - 2023",
+            "id": "pinebyte_01_01",
+            "position": "Software Engineer",
+            "duration": "2020 - 2022",
             "dutyList": [
               {
-                "id": "roughtail_01_01_01",
-                "desc": "Resolved escalations and nurtured distributor relationships to strengthen business partnerships",
+                "id": "pinebyte_01_01_01",
+                "desc": "Led a large-scale front-end migration from a legacy AngularJS codebase to modern React with TypeScript, significantly improving developer experience, reducing bugs, and modernizing the architecture for future scalability.",
                 "value": [
-                  "Resolved escalations and nurtured distributor relationships to strengthen business partnerships"
+                  "Led a large-scale front-end migration from a legacy AngularJS codebase to modern React with TypeScript, significantly improving developer experience, reducing bugs, and modernizing the architecture for future scalability."
                 ]
               },
               {
-                "id": "roughtail_01_01_02",
-                "desc": "Delivered a 20% increase in regional sales by implementing data-driven marketing strategies.",
+                "id": "pinebyte_01_01_02",
+                "desc": "Built and maintained internal developer tools, automated CI/CD workflows, and streamlined deployment pipelines using GitHub Actions and Docker, reducing the average deployment time by over 40%.",
                 "value": [
-                  "Delivered a 20% increase in regional sales by implementing data-driven marketing strategies."
+                  "Built and maintained internal developer tools, automated CI/CD workflows, and streamlined deployment pipelines using GitHub Actions and Docker, reducing the average deployment time by over 40%."
                 ]
               }
             ]
@@ -116,27 +116,27 @@
         ]
       },
       {
-        "id": "armadillo_01",
-        "name": "Armadillo Ale Works",
-        "location": "Denton, TX",
+        "id": "logix_01",
+        "name": "Logix Systems",
+        "location": "Boise, ID",
         "detailList": [
           {
-            "id": "armadillo_01_01",
-            "position": "Account Manager",
-            "duration": "2019 - 2021",
+            "id": "logix_01_01",
+            "position": "Systems Analyst",
+            "duration": "2017 - 2020",
             "dutyList": [
               {
-                "id": "armadillo_01_01_01",
-                "desc": "Expanded market reach, achieving a 25% sales growth through strategic partnerships and innovative campaigns.",
+                "id": "logix_01_01_01",
+                "desc": "Managed and optimized enterprise-level SQL databases, writing complex queries, stored procedures, and views to support real-time logistics analytics and reporting for internal and client-facing applications.",
                 "value": [
-                  "Expanded market reach, achieving a 25% sales growth through strategic partnerships and innovative campaigns."
+                  "Managed and optimized enterprise-level SQL databases, writing complex queries, stored procedures, and views to support real-time logistics analytics and reporting for internal and client-facing applications."
                 ]
               },
               {
-                "id": "armadillo_01_01_02",
-                "desc": "Facilitated collaboration across sales, production, and marketing teams to streamline operations.",
+                "id": "logix_01_01_02",
+                "desc": "Collaborated with software, hardware, and network teams to implement and test RESTful API integrations with warehouse systems, including barcode scanners, inventory modules, and RFID tracking devices.",
                 "value": [
-                  "Facilitated collaboration across sales, production, and marketing teams to streamline operations."
+                  "Collaborated with software, hardware, and network teams to implement and test RESTful API integrations with warehouse systems, including barcode scanners, inventory modules, and RFID tracking devices."
                 ]
               }
             ]
@@ -144,27 +144,27 @@
         ]
       },
       {
-        "id": "northside_01",
-        "name": "Northside Drafthouse & Eatery",
-        "location": "Richardson, TX",
+        "id": "nova_01",
+        "name": "Nova Cafe",
+        "location": "Salt Lake City, UT",
         "detailList": [
           {
-            "id": "northside_01_01",
-            "position": "Assistant General Manager",
-            "duration": "2017 - 2019",
+            "id": "nova_01_01",
+            "position": "Shift Manager",
+            "duration": "2015 - 2017",
             "dutyList": [
               {
-                "id": "northside_01_01_01",
-                "desc": "Streamlined operations and reduced costs while maintaining exceptional service standards.",
+                "id": "nova_01_01_01",
+                "desc": "Managed all aspects of daily café operations, including inventory tracking, team scheduling, customer conflict resolution, and ensuring consistent service delivery that resulted in a 4.8+ average customer rating.",
                 "value": [
-                  "Streamlined operations and reduced costs while maintaining exceptional service standards."
+                  "Managed all aspects of daily café operations, including inventory tracking, team scheduling, customer conflict resolution, and ensuring consistent service delivery that resulted in a 4.8+ average customer rating."
                 ]
               },
               {
-                "id": "northside_01_01_02",
-                "desc": "Supervised a team of 15+ employees, fostering a culture of excellence and continuous improvement.",
+                "id": "nova_01_01_02",
+                "desc": "Implemented scheduling and workflow improvements that cut labor costs by 12%, while maintaining peak-hour coverage and improving team morale through targeted training and leadership coaching.",
                 "value": [
-                  "Supervised a team of 15+ employees, fostering a culture of excellence and continuous improvement."
+                  "Implemented scheduling and workflow improvements that cut labor costs by 12%, while maintaining peak-hour coverage and improving team morale through targeted training and leadership coaching."
                 ]
               }
             ]
@@ -172,27 +172,27 @@
         ]
       },
       {
-        "id": "fullclip_01",
-        "name": "Fullclip Craft Distributors",
-        "location": "Dallas, TX",
+        "id": "zenfoods_01",
+        "name": "ZenFoods Distribution",
+        "location": "Phoenix, AZ",
         "detailList": [
           {
-            "id": "fullclip_01_01",
-            "position": "Sales Manager",
-            "duration": "2014 - 2017",
+            "id": "zenfoods_01_01",
+            "position": "Territory Sales Rep",
+            "duration": "2012 - 2015",
             "dutyList": [
               {
-                "id": "fullclip_01_01_01",
-                "desc": "Cultivated long-term client relationships by resolving inquiries efficiently and providing tailored solutions.",
+                "id": "zenfoods_01_01_01",
+                "desc": "Established and maintained a growing book of business across Arizona, New Mexico, and Nevada, securing high-value retail accounts and achieving consistent top-quartile sales performance over three years.",
                 "value": [
-                  "Cultivated long-term client relationships by resolving inquiries efficiently and providing tailored solutions."
+                  "Established and maintained a growing book of business across Arizona, New Mexico, and Nevada, securing high-value retail accounts and achieving consistent top-quartile sales performance over three years."
                 ]
               },
               {
-                "id": "fullclip_01_01_02",
-                "desc": "Proactively educated clients on new products, leading to a higher satisfaction and retention rate.",
+                "id": "zenfoods_01_01_02",
+                "desc": "Conducted detailed competitor analysis and local market research, adjusting pricing and promotional tactics based on region-specific trends to maximize client retention and penetration.",
                 "value": [
-                  "Proactively educated clients on new products, leading to a higher satisfaction and retention rate."
+                  "Conducted detailed competitor analysis and local market research, adjusting pricing and promotional tactics based on region-specific trends to maximize client retention and penetration."
                 ]
               }
             ]
@@ -206,31 +206,31 @@
     "projectList": [
       {
         "id": "project_01",
-        "name": "Quik|Res",
-        "href": "https://quikres.vercel.app",
-        "value": ["quikres.vercel.app"],
-        "desc": " Developed an AI-powered resume-to-website generator for creating polished personal sites with ease."
+        "name": "StreamLine Docs",
+        "href": "https://streamlinedocs.dev",
+        "value": ["streamlinedocs.dev"],
+        "desc": "Developed a documentation SaaS with markdown editing, user auth, and multi-tenant architecture."
       },
       {
         "id": "project_02",
-        "name": "ManyLinks",
-        "href": "https://manylinks.vercel.app",
-        "value": ["manylinks.vercel.app"],
-        "desc": "Designed a sleek, single-page link aggregator to showcase all your important links in one place."
+        "name": "ShopShack",
+        "href": "https://shopshack.vercel.app",
+        "value": ["shopshack.vercel.app"],
+        "desc": "Built a feature-rich online storefront with real-time inventory sync and Stripe integration."
       },
       {
         "id": "project_03",
-        "name": "Sway Bae Official",
-        "href": "https://www.swaybae.net",
-        "value": ["swaybae.net"],
-        "desc": "Built a professional website optimized for SEO and integrated with a headless CMS to enhance content management."
+        "name": "DevPath",
+        "href": "https://devpath.tech",
+        "value": ["devpath.tech"],
+        "desc": "Created a roadmap tool for developers to track learning progress and share custom paths."
       },
       {
         "id": "project_04",
-        "name": "Unofficial Merchandise",
-        "href": "https://unofficialmerchandise.vercel.app",
-        "value": ["unofficialmerchandise.vercel.app"],
-        "desc": "Created a modern e-commerce site with a user-centric design, enhancing user experience and driving sales potential."
+        "name": "PortLite",
+        "href": "https://portlite.io",
+        "value": ["portlite.io"],
+        "desc": "Designed a customizable portfolio template with support for dark mode and dynamic routing."
       }
     ]
   },
@@ -239,87 +239,75 @@
     "skillList": [
       {
         "id": "skill_01",
-        "name": "Project Management",
+        "name": "Team Leadership",
         "desc": "",
-        "value": ["Project Management"]
+        "value": ["Team Leadership"]
       },
       {
-        "id": "skill_02",
-        "name": "Front-End Framework Development",
+        "id": "skill_2",
+        "name": "Git Workflow",
         "desc": "",
-        "value": ["Front-End Framework Development"]
+        "value": ["Git Workflow"]
       },
       {
         "id": "skill_03",
-        "name": "UX/UI Accessible & Responsive Design",
+        "name": "Responsive Design",
         "desc": "",
-        "value": ["UX/UI Accessible & Responsive Design"]
+        "value": ["Responsive Design"]
       },
       {
         "id": "skill_04",
-        "name": "Web Performance Optimization",
+        "name": "Performance Debugging",
         "desc": "",
-        "value": ["Web Performance Optimization"]
+        "value": ["Performance Debugging"]
       },
       {
         "id": "skill_05",
-        "name": "Search Engine Optimization (SEO)",
+        "name": "SEO Optimization",
         "desc": "",
-        "value": ["Search Engine Optimization (SEO)"]
+        "value": ["SEO Optimization"]
       },
       {
         "id": "skill_06",
-        "name": "API Design, Implementation & Integration",
+        "name": "RESTful & GraphQL APIs",
         "desc": "",
-        "value": ["API Design, Implementation & Integration"]
+        "value": ["RESTful & GraphQL APIs"]
       },
       {
         "id": "skill_07",
-        "name": "Server Management, Hosting & Deployment",
+        "name": "Cloud Infrastructure",
         "desc": "",
-        "value": ["Server Management, Hosting & Deployment"]
+        "value": ["Cloud Infrastructure"]
       },
       {
         "id": "skill_08",
-        "name": "Agile Methodologies",
+        "name": "Agile Development",
         "desc": "",
-        "value": ["Agile Methodologies"]
+        "value": ["Agile Development"]
       },
       {
         "id": "skill_09",
-        "name": "Database Design & Management",
+        "name": "Data Modeling",
         "desc": "",
-        "value": ["Database Design & Management"]
+        "value": ["Data Modeling"]
       },
       {
         "id": "skill_10",
-        "name": "Object-Oriented Programming (OOP)",
+        "name": "Object-Oriented Analysis",
         "desc": "",
-        "value": ["Object-Oriented Programming (OOP)"]
+        "value": ["Object-Oriented Analysis"]
       },
       {
         "id": "skill_11",
-        "name": "Continuous Integration & Deployment (CI/CD)",
+        "name": "CI/CD Pipelines",
         "desc": "",
-        "value": ["Continuous Integration & Deployment (CI/CD)"]
+        "value": ["CI/CD Pipelines"]
       },
       {
         "id": "skill_12",
-        "name": "Authentication & Authorization",
+        "name": "OAuth & JWT Auth",
         "desc": "",
-        "value": ["Authentication & Authorization"]
-      },
-      {
-        "id": "skill_13",
-        "name": "Version Control (Git/GitHub)",
-        "desc": "",
-        "value": ["Version Control (Git/GitHub)"]
-      },
-      {
-        "id": "skill_14",
-        "name": "Security Best Practices",
-        "desc": "",
-        "value": ["Security Best Practices"]
+        "value": ["OAuth & JWT Auth"]
       }
     ]
   },
@@ -335,36 +323,36 @@
       },
       {
         "id": "technologies_02",
-        "name": "Typescript",
+        "name": "TypeScript",
         "href": "https://www.typescriptlang.org/",
         "desc": "",
-        "value": ["Typescript"]
+        "value": ["TypeScript"]
       },
       {
         "id": "technologies_03",
         "name": "React",
-        "href": "https://www.reactjs.org/",
+        "href": "https://reactjs.org/",
         "desc": "",
         "value": ["React"]
       },
       {
         "id": "technologies_04",
         "name": "Next.js",
-        "href": "https://www.nextjs.org/",
+        "href": "https://nextjs.org/",
         "desc": "",
         "value": ["Next.js"]
       },
       {
         "id": "technologies_05",
-        "name": "GitHub",
-        "href": "https://www.github.com/",
+        "name": "Astro",
+        "href": "https://astro.build/",
         "desc": "",
-        "value": ["GitHub"]
+        "value": ["Astro"]
       },
       {
         "id": "technologies_06",
         "name": "Git",
-        "href": "https://www.git-scm.com/",
+        "href": "https://git-scm.com/",
         "desc": "",
         "value": ["Git"]
       },
@@ -385,9 +373,9 @@
       {
         "id": "technologies_09",
         "name": "Webpack",
-        "href": "https://nextjs.org/docs/app/api-reference/turbopack",
+        "href": "https://webpack.js.org/",
         "desc": "",
-        "value": ["Turbopack"]
+        "value": ["Webpack"]
       },
       {
         "id": "technologies_10",
@@ -405,10 +393,10 @@
       },
       {
         "id": "technologies_12",
-        "name": "MDX",
-        "href": "https://mdxjs.com/",
+        "name": "Jest",
+        "href": "https://jestjs.io/",
         "desc": "",
-        "value": ["MDX"]
+        "value": ["Jest"]
       },
       {
         "id": "technologies_13",
@@ -419,10 +407,10 @@
       },
       {
         "id": "technologies_14",
-        "name": "Supabase",
-        "href": "https://www.supabase.com/",
+        "name": "Hono",
+        "href": "https://www.hono.dev/",
         "desc": "",
-        "value": ["Supabase"]
+        "value": ["Hono"]
       },
       {
         "id": "technologies_15",
@@ -440,10 +428,10 @@
       },
       {
         "id": "technologies_17",
-        "name": "PostgreSQL",
-        "href": "https://www.postgresql.org/",
+        "name": "MySQL",
+        "href": "https://www.mysql.com/",
         "desc": "",
-        "value": ["PostgreSQL"]
+        "value": ["MySQL"]
       },
       {
         "id": "technologies_18",
@@ -451,27 +439,6 @@
         "href": "https://www.sanity.io/",
         "desc": "",
         "value": ["Sanity"]
-      },
-      {
-        "id": "technologies_19",
-        "name": "TailwindCSS",
-        "href": "https://www.tailwindcss.com/",
-        "desc": "",
-        "value": ["TailwindCSS"]
-      },
-      {
-        "id": "technologies_20",
-        "name": "Vercel",
-        "href": "https://www.vercel.com/",
-        "desc": "",
-        "value": ["Vercel"]
-      },
-      {
-        "id": "technologies_21",
-        "name": "Canva",
-        "href": "https://www.canva.com/",
-        "desc": "",
-        "value": ["Canva"]
       }
     ]
   },
@@ -480,23 +447,23 @@
     "educationList": [
       {
         "id": "education_01",
-        "name": "University of Central Florida",
-        "location": "Florida",
-        "href": "https://www.ucf.edu/",
-        "degree": "Full-Stack Coding Bootcamp Certificate",
-        "duration": "2023",
+        "name": "Northlake Institute of Technology",
+        "location": "Vermont",
+        "href": "https://www.northlakeit.edu/",
+        "degree": "Diploma in Web Application Development",
+        "duration": "2021",
         "desc": "",
-        "value": ["Full-Stack Coding Bootcamp Certificate"]
+        "value": ["Diploma in Web Application Development"]
       },
       {
         "id": "education_02",
-        "name": "University of Central Oklahoma",
-        "location": "Oklahoma",
-        "href": "https://www.uco.edu/",
-        "degree": "NA - Business Management",
-        "duration": "2008",
+        "name": "Brookfield College",
+        "location": "Oregon",
+        "href": "https://www.brookfieldcollege.edu/",
+        "degree": "Associate Degree in Digital Media",
+        "duration": "2017",
         "desc": "",
-        "value": ["NA - Business Management"]
+        "value": ["Associate Degree in Digital Media"]
       }
     ]
   },
@@ -505,27 +472,27 @@
     "hobbyList": [
       {
         "id": "hobby_01",
-        "name": "Contributing to open-source projects",
+        "name": "Building indie web apps for the whole world",
         "desc": "",
-        "value": ["Contributing to open-source projects"]
+        "value": ["Building indie web apps for the whole world"]
       },
       {
         "id": "hobby_02",
-        "name": "Participating in coding challenges",
+        "name": "Sketching UI ideas for the present and future",
         "desc": "",
-        "value": ["Participating in coding challenges"]
+        "value": ["Sketching UI ideas for the present and future"]
       },
       {
         "id": "hobby_03",
-        "name": "Tech blogging and discussion groups",
+        "name": "Reverse-engineering apps for learning now",
         "desc": "",
-        "value": ["Tech blogging and discussion groups"]
+        "value": ["Reverse-engineering apps for learning now"]
       },
       {
         "id": "hobby_04",
-        "name": "Exploring the latest technologies",
+        "name": "Testing beta tools and platforms for myself",
         "desc": "",
-        "value": ["Exploring the latest technologies"]
+        "value": ["Testing beta tools and platforms for myself"]
       }
     ]
   }
